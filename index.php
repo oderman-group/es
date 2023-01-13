@@ -9,8 +9,8 @@ include("includes/head.php");
 <body>
 
     <!-- ====== start loading page ====== -->
-    <div id="preloader">
-    </div>
+    <!-- <div id="preloader">
+    </div> -->
     <!-- ====== end loading page ====== -->
 
     <?php include("includes/top-navbar.php");?>
@@ -119,11 +119,8 @@ include("includes/head.php");
                                 today
                             </h2>
                             <div class="butns mt-70">
-                                <a href="https://apps.apple.com/us/genre/mac/id39?mt=12" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mx-1" target="_blank">
-                                    <span> Download for MacOS <i class="bi bi-apple ms-1"></i> </span>
-                                </a>
-                                <a href="https://apps.microsoft.com/store/apps" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mx-1" target="_blank">
-                                    <span> Download for Window <i class="bi bi-windows ms-1"></i> </span>
+                                <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
+                                    <span>Prueba gratis <i class="bi bi-arrow-right ms-1"></i> </span>
                                 </a>
                             </div>
                         </div>
