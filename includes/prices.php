@@ -13,14 +13,14 @@
                             <input class="form-check-input" type="radio" name="inlineRadioOptions" id="monthly-input"
                                 value="option1">
                             <label class="form-check-label" for="monthly-input">
-                                Billed Monthly
+                                Pago Mensual
                             </label>
                         </div>
                         <div class="form-check form-check-inline">
                             <input class="form-check-input" type="radio" name="inlineRadioOptions" id="yearly-input"
                                 value="option2" checked>
                             <label class="form-check-label" for="yearly-input">
-                                Billed yearly
+                                Pago Anual
                                 <small class="alert-danger text-danger rounded-pill ms-1">-15%</small>
                             </label>
                         </div>
@@ -34,27 +34,21 @@
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
-                                <h2 class="monthly_price">$150K <span>/mo</span></h2>
-                                <h2 class="yearly_price">$1.6M <span>/yr</span></h2>
-                                <small>Free forever.!</small>
-                                <small>No credit card required.</small>
+                                <h2 class="monthly_price">$150K <span>/M</span></h2>
+                                <h2 class="yearly_price">$1.6M <span>/A</span></h2>
                             </div>
                             <div class="price-headItem bg-gray5">
                                 <h6>Gold</h6>
-                                <h2 class="monthly_price color-blue5">$210K <span>/mo</span></h2>
-                                <h2 class="yearly_price color-blue5">$2.4M <span>/yr</span></h2>
-                                <small>Free forever.!</small>
-                                <small>No credit card required.</small>
+                                <h2 class="monthly_price color-blue5">$210K <span>/M</span></h2>
+                                <h2 class="yearly_price color-blue5">$2.4M <span>/A</span></h2>
                                 <div class="label">
                                     best choice
                                 </div>
                             </div>
                             <div class="price-headItem">
                                 <h6>Diamond</h6>
-                                <h2 class="monthly_price">$265K <span>/mo</span></h2>
-                                <h2 class="yearly_price">$3.0M <span>/yr</span></h2>
-                                <small>Free forever.!</small>
-                                <small>No credit card required.</small>
+                                <h2 class="monthly_price">$265K <span>/M</span></h2>
+                                <h2 class="yearly_price">$3.0M <span>/A</span></h2>
                             </div>
                         </div>
 
