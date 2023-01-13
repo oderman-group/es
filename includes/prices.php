@@ -42,7 +42,7 @@
                                 <h2 class="monthly_price color-blue5">$210K <span>/M</span></h2>
                                 <h2 class="yearly_price color-blue5">$2.4M <span>/A</span></h2>
                                 <div class="label">
-                                    best choice
+                                    Mas Vendido
                                 </div>
                             </div>
                             <div class="price-headItem">
