@@ -150,7 +150,7 @@ include("includes/head.php");
     <script src="assets/js/lib/swiper.min.js"></script>
     <script src="assets/js/lib/jquery.waypoints.min.js"></script>
     <script src="assets/js/lib/jquery.counterup.js"></script>
-    <script src="assets/js/lib/pace.js"></script>
+    <!-- <script src="assets/js/lib/pace.js"></script> -->
     <script src="assets/js/lib/scrollIt.min.js"></script>
     <script src="assets/js/main.js"></script>
 
