@@ -2,7 +2,7 @@
 <section class="pricing section-padding style-5" data-scroll-index="3">
             <div class="container">
                 <div class="section-head text-center mb-60 style-5">
-                    <h2 class="mb-20"> Choose Plan and <span> Kick-start </span> </h2>
+                    <h2 class="mb-20"> Nuestros <span> Planes.</span> </h2>
                     <p>
                     Si su institución requiere un plan personalizado, contáctenos al WhatsApp: <b><?=$datos['dtc_whatsapp'];?></b> o al correo <b><?=$datos['dtc_email_ventas'];?></b>
                     </p>
