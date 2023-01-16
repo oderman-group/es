@@ -21,15 +21,14 @@
                                     </div>
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/W7uQfu79T7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                     <div class="text">
-                                        “Best dashboard for any your store, woo or shopify. Powerful and very flexiable.
-                                        Recommended!”
+                                        “Ha sido de gran beneficio, ya que la institución se encuentra retirada de los acudientes.”
                                     </div>
                                     <div class="user mt-40 text-center">
                                         <div class="icon-80 rounded-circle img-cover overflow-hidden m-auto">
                                             <img src="assets/img/team/1.jpg" alt="">
                                         </div>
-                                        <h6>Thomas Eristen</h6>
-                                        <small>Sale Director at Amazon Retail</small>
+                                        <h6>Licy Suarez</h6>
+                                        <small>Sec. Academica - INSTIVAL</small>
                                     </div>
                                 </a>
                             </div>
@@ -44,14 +43,14 @@
                                     </div>
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/JXrq81jOSZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                     <div class="text">
-                                        “Iteck provide very much features to help increase CRO so amazing.”
+                                        “Hemos podido optimizar mucho nuestro trabajo, para toda la comunidad educativa en general.”
                                     </div>
                                     <div class="user mt-40 text-center">
                                         <div class="icon-80 rounded-circle img-cover overflow-hidden m-auto">
-                                            <img src="assets/img/team/2.jpg" alt="">
+                                            <img src="assets/img/team/2.png" alt="">
                                         </div>
-                                        <h6> Carlos Martinelli </h6>
-                                        <small> SEO & Marketing at Ebay Global </small>
+                                        <h6>Claudia Gomez</h6>
+                                        <small>Cor. Academica - ICOLVEN</small>
                                     </div>
                                 </a>
                             </div>
@@ -66,15 +65,14 @@
                                     </div>
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/YaxHzQyyef4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                     <div class="text">
-                                        “Big thank to team support of Iteck. Fast, professional and extremly friendly.
-                                        This product alway update and ehance everyday.”
+                                        “Muchas Gracias SINTIA, por hacer de los procesos académicos algo fácil y enriquecedor.”
                                     </div>
                                     <div class="user mt-40 text-center">
                                         <div class="icon-80 rounded-circle img-cover overflow-hidden m-auto">
-                                            <img src="assets/img/team/3.jpg" alt="">
+                                            <img src="assets/img/team/3.png" alt="">
                                         </div>
-                                        <h6> Eduard Mendy </h6>
-                                        <small> VP of Sale Development </small>
+                                        <h6>Katerine Rendon</h6>
+                                        <small>Sec. Academica - Eduardo O. </small>
                                     </div>
                                 </a>
                             </div>
@@ -89,14 +87,14 @@
                                     </div>
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/GbfQd8XV4PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                     <div class="text">
-                                        “10/10 for all related to Iteck E-Com Dashboard. It’s too perfect!”
+                                        “En nuestro proceso de educación utilizamos la plataforma SINTIA.”
                                     </div>
                                     <div class="user mt-40 text-center">
                                         <div class="icon-80 rounded-circle img-cover overflow-hidden m-auto">
-                                            <img src="assets/img/team/4.jpg" alt="">
+                                            <img src="assets/img/team/4.png" alt="">
                                         </div>
-                                        <h6> Lucas Digne </h6>
-                                        <small> Sale Product Management at Flipkart </small>
+                                        <h6>Frady Valencia</h6>
+                                        <small>Gerente - IC&T</small>
                                     </div>
                                 </a>
                             </div>
