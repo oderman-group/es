@@ -1,8 +1,8 @@
 <!-- ====== start clients ====== -->
 <section class="clients style-5 pb-100" data-scroll-index="1">
             <div class="section-head text-center mb-40 style-5">
-                <h2 class="mb-20"> Trusted By Thoudsands <span> Business </span> </h2>
-                <p>More than 15,000 companies trust and choose Iteck</p>
+                <h2 class="mb-20"><span>Instituciones </span> que confian en nosotros.</h2>
+                <!-- <p>More than 15,000 companies trust and choose Iteck</p> -->
             </div>
             <div class="content">
                 <div class="clients-slider5">
