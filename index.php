@@ -110,13 +110,13 @@ include("includes/head.php");
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="content text-center">
-                            <h2>Manage your ecommerce business better with an all-in-one
+                            <h2>Administre mejor su institución, todo en una sola
                                 <span>
-                                    dashboard
+                                    plataforma
                                     <img src="assets/img/header/head5_line.png" alt="" class="head-line">
                                     <img src="assets/img/header/head5_pen.png" alt="" class="head-pen">
                                 </span>
-                                today
+                                hoy.
                             </h2>
                             <div class="butns mt-70">
                                 <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
