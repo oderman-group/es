@@ -84,7 +84,7 @@
                                 <a href="#"> Intergrations </a>
                             </li>
                             <li>
-                                <a href="#"> FAQs </a>
+                                <a href="faq.php"> FAQs </a>
                             </li>
                             <li>
                                 <a href="#"> Help Center </a>
