@@ -41,9 +41,7 @@
                                 <h6>Gold</h6>
                                 <h2 class="monthly_price color-blue5">$210K <span>/M</span></h2>
                                 <h2 class="yearly_price color-blue5">$2.4M <span>/A</span></h2>
-                                <div class="label">
-                                    Mas Vendido
-                                </div>
+                                <div class="label">Mas Vendido</div>
                             </div>
                             <div class="price-headItem">
                                 <h6>Diamond</h6>
@@ -99,6 +97,8 @@
                                     <span>2.000</span>
                                 </div>
                             </div>
+
+                            <hr>
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
@@ -217,6 +217,309 @@
 
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <hr>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Clases mediante videos
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Tareas/Actividades para la casa
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Foros de discusión
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Carpetas Compartidas
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Chat institucional
+                                </div>
+                                <div class="price-item">
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Exámenes en línea
+                                </div>
+                                <div class="price-item">
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <hr>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Capacitación virtual
+                                </div>
+                                <div class="price-item">
+                                    2 HORAS
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    2 HORAS
+                                </div>
+                                <div class="price-item">
+                                    2 HORAS
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Manual en linea
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Tutorial por pantalla
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Garantía
+                                </div>
+                                <div class="price-item">
+                                    Siempre
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    Siempre
+                                </div>
+                                <div class="price-item">
+                                    Siempre
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Almacenamiento
+                                </div>
+                                <div class="price-item">
+                                    10 GB
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    25 GB
+                                </div>
+                                <div class="price-item">
+                                    50 GB
+                                </div>
+                            </div>
+
+                            <hr>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Soporte por correo
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Soporte por chat web
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Soporte por whatsapp
+                                </div>
+                                <div class="price-item">
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Soporte por teléfono
+                                </div>
+                                <div class="price-item">
+                                </div>
+                                <div class="price-item bg-gray5">
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Horario de atención
+                                </div>
+                                <div class="price-item">
+                                    Normal
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    Normal
+                                </div>
+                                <div class="price-item">
+                                    Extendido
+                                </div>
+                            </div>
+
+                            <hr>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Respaldo de datos
+                                </div>
+                                <div class="price-item">
+                                    Mensual
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    Semanal
+                                </div>
+                                <div class="price-item">
+                                    Diario
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Importación inicial
+                                </div>
+                                <div class="price-item">
+                                    Cotización
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Personalización boletín
+                                </div>
+                                <div class="price-item">
+                                    Cotización
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Desarrollos adicionales
+                                </div>
+                                <div class="price-item">
+                                    Cotización
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    Cotización
+                                </div>
+                                <div class="price-item">
+                                    Cotización
                                 </div>
                             </div>
 
