@@ -124,285 +124,131 @@ include("includes/head.php");
                             <div class="col-lg-8">
                                 <div class="faq-questions">
                                     <div class="accordion pt-lg-0" id="accordion1">
-                                        <h5 class="sec-title mt-0"> <span> 01. </span> Instalación </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd1">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bd1" aria-expanded="true" aria-controls="collapseOne">
-                                                Global search engine optimization
-                                            </button>
-                                          </h2>
-                                          <div id="bd1" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion1">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd2">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd2" aria-expanded="false" aria-controls="collapseTwo">
-                                                Complete Social Media Integration
-                                            </button>
-                                          </h2>
-                                          <div id="bd2" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion1">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd3">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd3" aria-expanded="false" aria-controls="collapseThree">
-                                                End-to-end encryption for messages
-                                            </button>
-                                          </h2>
-                                          <div id="bd3" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion1">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title mt-0"> <span> 01. </span> Instalación </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd1">
+                                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bd1" aria-expanded="true" aria-controls="collapseOne">
+                                          ¿Cuánto dura la instalación?
+                                          </button>
+                                        </h2>
+                                        <div id="bd1" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion1">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                La instalación la hacemos directamente desde nuestras oficinas y dura 1 día hábil después de haber recibido el pago correspondiente.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion2">
-                                        <h5 class="sec-title"> <span> 02. </span> Pago </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd4">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd4" aria-expanded="true" aria-controls="collapseOne">
-                                                What could kill the company?
-                                            </button>
-                                          </h2>
-                                          <div id="bd4" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion2">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd5">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd5" aria-expanded="false" aria-controls="collapseTwo">
-                                                Are there any worth being a little proactive about?
-                                            </button>
-                                          </h2>
-                                          <div id="bd5" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion2">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd6">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd6" aria-expanded="false" aria-controls="collapseThree">
-                                                What qualities, feelings, attributes do we want?
-                                            </button>
-                                          </h2>
-                                          <div id="bd6" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion2">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 02. </span> Pago </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd4">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd4" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Se puede pagar en varias partidas?
+                                          </button>
+                                        </h2>
+                                        <div id="bd4" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion2">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Claro que sí, se puede dividir el pago hasta en varias partidas durante el año. La institución debe compromenterse a una fecha de pago cada mes durante el año.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion3">
-                                        <h5 class="sec-title"> <span> 03. </span> Integración </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd7">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
-                                                Materially help someone else with their priorities?
-                                            </button>
-                                          </h2>
-                                          <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion3">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd8">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd8" aria-expanded="false" aria-controls="collapseTwo">
-                                                To poor or missing internal communication?
-                                            </button>
-                                          </h2>
-                                          <div id="bd8" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion3">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd9">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd9" aria-expanded="false" aria-controls="collapseThree">
-                                                We address those with features or marketing?
-                                            </button>
-                                          </h2>
-                                          <div id="bd9" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion3">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 03. </span> Integración </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd7">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿SINTIA se puede integrar con otros sistemas?
+                                          </button>
+                                        </h2>
+                                        <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion3">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                              Claro que sí, SINTIA tiene APIs de integración para que sean usadas por otros sistemas y haya comunicación entre ellos.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion4">
-                                        <h5 class="sec-title"> <span> 04. </span> Cancelación </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd7">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
-                                                How could we all impact that metric?
-                                            </button>
-                                          </h2>
-                                          <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion4">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd8">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd8" aria-expanded="false" aria-controls="collapseTwo">
-                                                That we’re not listening to?
-                                            </button>
-                                          </h2>
-                                          <div id="bd8" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion4">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd9">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd9" aria-expanded="false" aria-controls="collapseThree">
-                                                How would we accomplish that?
-                                            </button>
-                                          </h2>
-                                          <div id="bd9" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion4">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 04. </span> Cancelación </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd7">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Qué pasa si no quedo satisfecho con la plataforma?
+                                          </button>
+                                        </h2>
+                                        <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion4">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Queremos que estés tranquilo al comprar. Si por alguna razón no quedas satisfecho con la plataforma o con el servicio post venta, tienes 90 días de devolución garantizada sin compromiso alguno. Cero riesgos para usted.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd8">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd8" aria-expanded="false" aria-controls="collapseTwo">
+                                            ¿Puedo cancelar el servicio en cualquier momento?
+                                          </button>
+                                        </h2>
+                                        <div id="bd8" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion4">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Usted como cliente decide cuando renovar la licencia o cuando cancelarla. Basta con cancelar en línea desde la misma plataforma o con enviarnos un mensaje al email info@plataformasintia.com o al WhatsApp: +57 300 607 5800/b>, diciendo que deseas cancelar el servicio. Nosotros te entregamos toda la información depositada durante el tiempo que has trabajado con la plataforma. Cero riesgos para usted.
+                                              </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion5">
-                                        <h5 class="sec-title"> <span> 05. </span> Dispositivos </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd10">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd10" aria-expanded="true" aria-controls="collapseOne">
-                                                If all our source code were stolen, would it matter?
-                                            </button>
-                                          </h2>
-                                          <div id="bd10" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion5">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd11">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd11" aria-expanded="false" aria-controls="collapseTwo">
-                                                We do differently such that it wouldn’t matter?
-                                            </button>
-                                          </h2>
-                                          <div id="bd11" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion5">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd12">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd12" aria-expanded="false" aria-controls="collapseThree">
-                                                How could we institutionalize communicating it?
-                                            </button>
-                                          </h2>
-                                          <div id="bd12" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion5">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 05. </span> Dispositivos </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd10">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd10" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Puedo acceder desde mi tablet o celular?
+                                          </button>
+                                        </h2>
+                                        <div id="bd10" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion5">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Sí, SINTIA se adapta a la resolución de tu dispositivo.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion6">
-                                        <h5 class="sec-title"> <span> 06. </span> Datos </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd13">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd13" aria-expanded="true" aria-controls="collapseOne">
-                                                About you that not many people know?
-                                            </button>
-                                          </h2>
-                                          <div id="bd13" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion6">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd14">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd14" aria-expanded="false" aria-controls="collapseTwo">
-                                                What should we do about that?
-                                            </button>
-                                          </h2>
-                                          <div id="bd14" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion6">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd15">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd15" aria-expanded="false" aria-controls="collapseThree">
-                                                What should we do soon to prevent some of that?
-                                            </button>
-                                          </h2>
-                                          <div id="bd15" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion6">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 06. </span> Importaciones </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd13">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd13" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Puedo hacer una importación inicial de mis datos?
+                                          </button>
+                                        </h2>
+                                        <div id="bd13" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion6">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Sí. Si tienes la información en Excel o texto plano (txt) se puede realizar la importación de los datos para empezar con el sistema al día.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
 
                                 </div>
@@ -417,31 +263,31 @@ include("includes/head.php");
                         <div class="row gx-5">
                             <div class="col-lg-4">
                                 <div class="faq-category">
-                                    <h5> Question Category: </h5>
+                                    <h5> Categoria  de Preguntas: </h5>
                                     <ul>
                                         <li>
-                                            <a href="#accordion1" class="active"> Installation </a>
-                                            <span> 06 </span>
+                                            <a href="#accordion1" class="active"> Instalación </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion2"> Getting Started </a>
-                                            <span> 04 </span>
+                                            <a href="#accordion2"> Pago </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion3"> Page Builder </a>
-                                            <span> 03 </span>
+                                            <a href="#accordion3"> Integración </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion4"> Header Builder </a>
-                                            <span> 03 </span>
+                                            <a href="#accordion4"> Cancelación </a>
+                                            <span> 02 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion5"> Footer Builder </a>
-                                            <span> 04 </span>
+                                            <a href="#accordion5"> Dispositivos </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion6"> Support </a>
-                                            <span> 05 </span>
+                                            <a href="#accordion6"> Datos </a>
+                                            <span> 01 </span>
                                         </li>
                                     </ul>
                                 </div>
@@ -449,285 +295,131 @@ include("includes/head.php");
                             <div class="col-lg-8">
                                 <div class="faq-questions">
                                     <div class="accordion pt-lg-0" id="accordion1">
-                                        <h5 class="sec-title mt-0"> <span> 01. </span> Installation </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd1">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bd1" aria-expanded="true" aria-controls="collapseOne">
-                                                Global search engine optimization
-                                            </button>
-                                          </h2>
-                                          <div id="bd1" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion1">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd2">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd2" aria-expanded="false" aria-controls="collapseTwo">
-                                                Complete Social Media Integration
-                                            </button>
-                                          </h2>
-                                          <div id="bd2" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion1">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd3">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd3" aria-expanded="false" aria-controls="collapseThree">
-                                                End-to-end encryption for messages
-                                            </button>
-                                          </h2>
-                                          <div id="bd3" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion1">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title mt-0"> <span> 01. </span> Instalación </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd1">
+                                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bd1" aria-expanded="true" aria-controls="collapseOne">
+                                          ¿Cuánto dura la instalación?
+                                          </button>
+                                        </h2>
+                                        <div id="bd1" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion1">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                La instalación la hacemos directamente desde nuestras oficinas y dura 1 día hábil después de haber recibido el pago correspondiente.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion2">
-                                        <h5 class="sec-title"> <span> 02. </span> Getting Started </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd4">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd4" aria-expanded="true" aria-controls="collapseOne">
-                                                What could kill the company?
-                                            </button>
-                                          </h2>
-                                          <div id="bd4" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion2">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd5">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd5" aria-expanded="false" aria-controls="collapseTwo">
-                                                Are there any worth being a little proactive about?
-                                            </button>
-                                          </h2>
-                                          <div id="bd5" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion2">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd6">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd6" aria-expanded="false" aria-controls="collapseThree">
-                                                What qualities, feelings, attributes do we want?
-                                            </button>
-                                          </h2>
-                                          <div id="bd6" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion2">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 02. </span> Pago </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd4">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd4" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Se puede pagar en varias partidas?
+                                          </button>
+                                        </h2>
+                                        <div id="bd4" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion2">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Claro que sí, se puede dividir el pago hasta en varias partidas durante el año. La institución debe compromenterse a una fecha de pago cada mes durante el año.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion3">
-                                        <h5 class="sec-title"> <span> 03. </span> Page Builder </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd7">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
-                                                Materially help someone else with their priorities?
-                                            </button>
-                                          </h2>
-                                          <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion3">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd8">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd8" aria-expanded="false" aria-controls="collapseTwo">
-                                                To poor or missing internal communication?
-                                            </button>
-                                          </h2>
-                                          <div id="bd8" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion3">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd9">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd9" aria-expanded="false" aria-controls="collapseThree">
-                                                We address those with features or marketing?
-                                            </button>
-                                          </h2>
-                                          <div id="bd9" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion3">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 03. </span> Integración </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd7">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿SINTIA se puede integrar con otros sistemas?
+                                          </button>
+                                        </h2>
+                                        <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion3">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                              Claro que sí, SINTIA tiene APIs de integración para que sean usadas por otros sistemas y haya comunicación entre ellos.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion4">
-                                        <h5 class="sec-title"> <span> 04. </span> Header Builder </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd7">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
-                                                How could we all impact that metric?
-                                            </button>
-                                          </h2>
-                                          <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion4">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd8">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd8" aria-expanded="false" aria-controls="collapseTwo">
-                                                That we’re not listening to?
-                                            </button>
-                                          </h2>
-                                          <div id="bd8" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion4">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd9">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd9" aria-expanded="false" aria-controls="collapseThree">
-                                                How would we accomplish that?
-                                            </button>
-                                          </h2>
-                                          <div id="bd9" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion4">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 04. </span> Cancelación </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd7">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Qué pasa si no quedo satisfecho con la plataforma?
+                                          </button>
+                                        </h2>
+                                        <div id="bd7" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion4">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Queremos que estés tranquilo al comprar. Si por alguna razón no quedas satisfecho con la plataforma o con el servicio post venta, tienes 90 días de devolución garantizada sin compromiso alguno. Cero riesgos para usted.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd8">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd8" aria-expanded="false" aria-controls="collapseTwo">
+                                            ¿Puedo cancelar el servicio en cualquier momento?
+                                          </button>
+                                        </h2>
+                                        <div id="bd8" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion4">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Usted como cliente decide cuando renovar la licencia o cuando cancelarla. Basta con cancelar en línea desde la misma plataforma o con enviarnos un mensaje al email info@plataformasintia.com o al WhatsApp: +57 300 607 5800/b>, diciendo que deseas cancelar el servicio. Nosotros te entregamos toda la información depositada durante el tiempo que has trabajado con la plataforma. Cero riesgos para usted.
+                                              </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion5">
-                                        <h5 class="sec-title"> <span> 05. </span> Footer Builder </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd10">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd10" aria-expanded="true" aria-controls="collapseOne">
-                                                If all our source code were stolen, would it matter?
-                                            </button>
-                                          </h2>
-                                          <div id="bd10" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion5">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd11">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd11" aria-expanded="false" aria-controls="collapseTwo">
-                                                We do differently such that it wouldn’t matter?
-                                            </button>
-                                          </h2>
-                                          <div id="bd11" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion5">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd12">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd12" aria-expanded="false" aria-controls="collapseThree">
-                                                How could we institutionalize communicating it?
-                                            </button>
-                                          </h2>
-                                          <div id="bd12" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion5">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 05. </span> Dispositivos </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd10">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd10" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Puedo acceder desde mi tablet o celular?
+                                          </button>
+                                        </h2>
+                                        <div id="bd10" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion5">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Sí, SINTIA se adapta a la resolución de tu dispositivo.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion6">
-                                        <h5 class="sec-title"> <span> 06. </span> Support </h5>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd13">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd13" aria-expanded="true" aria-controls="collapseOne">
-                                                About you that not many people know?
-                                            </button>
-                                          </h2>
-                                          <div id="bd13" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion6">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd14">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd14" aria-expanded="false" aria-controls="collapseTwo">
-                                                What should we do about that?
-                                            </button>
-                                          </h2>
-                                          <div id="bd14" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion6">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="accordion-item">
-                                          <h2 class="accordion-header" id="hd15">
-                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd15" aria-expanded="false" aria-controls="collapseThree">
-                                                What should we do soon to prevent some of that?
-                                            </button>
-                                          </h2>
-                                          <div id="bd15" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion6">
-                                            <div class="accordion-body">
-                                                <div class="text">
-                                                    Sass (short for syntactically awesome style sheets) is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. The Sass Script is the scripting language itself. Sass consists of two syntaxes.
-                                                </div>
-                                            </div>
+                                      <h5 class="sec-title"> <span> 06. </span> Importaciones </h5>
+                                      <div class="accordion-item">
+                                        <h2 class="accordion-header" id="hd13">
+                                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd13" aria-expanded="true" aria-controls="collapseOne">
+                                            ¿Puedo hacer una importación inicial de mis datos?
+                                          </button>
+                                        </h2>
+                                        <div id="bd13" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion6">
+                                          <div class="accordion-body">
+                                              <div class="text">
+                                                Sí. Si tienes la información en Excel o texto plano (txt) se puede realizar la importación de los datos para empezar con el sistema al día.
+                                              </div>
                                           </div>
                                         </div>
                                       </div>
+                                    </div>
 
 
                                 </div>
