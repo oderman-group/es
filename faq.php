@@ -15,11 +15,11 @@ include("includes/head.php");
     <section class="inner-header style-5">
         <div class="container">
             <div class="content">
-                <div class="links">
+                <!-- <div class="links">
                     <a href="#"> Home </a>
                     <a href="#"> Faq </a>
-                </div>
-                <h2> FAQ Page </h2>
+                </div> -->
+                <h2> Preguntas Frecuentes </h2>
                 <img src="assets/img/header/head7_rock.png" alt="" class="side-img slide_up_down">
             </div>
         </div>
@@ -760,7 +760,7 @@ include("includes/head.php");
     <script src="assets/js/lib/swiper.min.js"></script>
     <script src="assets/js/lib/jquery.waypoints.min.js"></script>
     <script src="assets/js/lib/jquery.counterup.js"></script>
-    <script src="assets/js/lib/pace.js"></script>
+    <!-- <script src="assets/js/lib/pace.js"></script> -->
     <script src="assets/js/lib/scrollIt.min.js"></script>
     <script src="assets/js/main.js"></script>
 
