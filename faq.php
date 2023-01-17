@@ -92,31 +92,31 @@ include("includes/head.php");
                         <div class="row gx-5">
                             <div class="col-lg-4">
                                 <div class="faq-category">
-                                    <h5> Question Category: </h5>
+                                    <h5> Categoria  de Preguntas: </h5>
                                     <ul>
                                         <li>
-                                            <a href="#accordion1" class="active"> Installation </a>
-                                            <span> 06 </span>
+                                            <a href="#accordion1" class="active"> Instalación </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion2"> Getting Started </a>
-                                            <span> 04 </span>
+                                            <a href="#accordion2"> Pago </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion3"> Page Builder </a>
-                                            <span> 03 </span>
+                                            <a href="#accordion3"> Integración </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion4"> Header Builder </a>
-                                            <span> 03 </span>
+                                            <a href="#accordion4"> Cancelación </a>
+                                            <span> 02 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion5"> Footer Builder </a>
-                                            <span> 04 </span>
+                                            <a href="#accordion5"> Dispositivos </a>
+                                            <span> 01 </span>
                                         </li>
                                         <li>
-                                            <a href="#accordion6"> Support </a>
-                                            <span> 05 </span>
+                                            <a href="#accordion6"> Datos </a>
+                                            <span> 01 </span>
                                         </li>
                                     </ul>
                                 </div>
@@ -124,7 +124,7 @@ include("includes/head.php");
                             <div class="col-lg-8">
                                 <div class="faq-questions">
                                     <div class="accordion pt-lg-0" id="accordion1">
-                                        <h5 class="sec-title mt-0"> <span> 01. </span> Installation </h5>
+                                        <h5 class="sec-title mt-0"> <span> 01. </span> Instalación </h5>
                                         <div class="accordion-item">
                                           <h2 class="accordion-header" id="hd1">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bd1" aria-expanded="true" aria-controls="collapseOne">
@@ -171,7 +171,7 @@ include("includes/head.php");
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion2">
-                                        <h5 class="sec-title"> <span> 02. </span> Getting Started </h5>
+                                        <h5 class="sec-title"> <span> 02. </span> Pago </h5>
                                         <div class="accordion-item">
                                           <h2 class="accordion-header" id="hd4">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd4" aria-expanded="true" aria-controls="collapseOne">
@@ -218,7 +218,7 @@ include("includes/head.php");
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion3">
-                                        <h5 class="sec-title"> <span> 03. </span> Page Builder </h5>
+                                        <h5 class="sec-title"> <span> 03. </span> Integración </h5>
                                         <div class="accordion-item">
                                           <h2 class="accordion-header" id="hd7">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
@@ -265,7 +265,7 @@ include("includes/head.php");
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion4">
-                                        <h5 class="sec-title"> <span> 04. </span> Header Builder </h5>
+                                        <h5 class="sec-title"> <span> 04. </span> Cancelación </h5>
                                         <div class="accordion-item">
                                           <h2 class="accordion-header" id="hd7">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd7" aria-expanded="true" aria-controls="collapseOne">
@@ -312,7 +312,7 @@ include("includes/head.php");
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion5">
-                                        <h5 class="sec-title"> <span> 05. </span> Footer Builder </h5>
+                                        <h5 class="sec-title"> <span> 05. </span> Dispositivos </h5>
                                         <div class="accordion-item">
                                           <h2 class="accordion-header" id="hd10">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd10" aria-expanded="true" aria-controls="collapseOne">
@@ -359,7 +359,7 @@ include("includes/head.php");
 
                                       <!-- ------- -->
                                     <div class="accordion" id="accordion6">
-                                        <h5 class="sec-title"> <span> 06. </span> Support </h5>
+                                        <h5 class="sec-title"> <span> 06. </span> Datos </h5>
                                         <div class="accordion-item">
                                           <h2 class="accordion-header" id="hd13">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bd13" aria-expanded="true" aria-controls="collapseOne">
