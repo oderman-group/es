@@ -205,7 +205,7 @@ include("includes/head.php");
                                         <div id="bd8" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion4">
                                           <div class="accordion-body">
                                               <div class="text">
-                                                Usted como cliente decide cuando renovar la licencia o cuando cancelarla. Basta con cancelar en línea desde la misma plataforma o con enviarnos un mensaje al email info@plataformasintia.com o al WhatsApp: +57 300 607 5800/b>, diciendo que deseas cancelar el servicio. Nosotros te entregamos toda la información depositada durante el tiempo que has trabajado con la plataforma. Cero riesgos para usted.
+                                                Usted como cliente decide cuando renovar la licencia o cuando cancelarla. Basta con cancelar en línea desde la misma plataforma o con enviarnos un mensaje al email <?=$datos['dtc_email_ventas'];?> o al WhatsApp: <?=$datos['dtc_whatsapp'];?>, diciendo que deseas cancelar el servicio. Nosotros te entregamos toda la información depositada durante el tiempo que has trabajado con la plataforma. Cero riesgos para usted.
                                               </div>
                                           </div>
                                         </div>
