@@ -4,7 +4,7 @@
 //Server settings
 $mail->SMTPDebug = 2;                                       // Enable verbose debug output
 $mail->isSMTP();                                            // Set mailer to use SMTP
-$mail->Host       = 'mail.'.$datos['dtc_dominio'];  	// Specify main and backup SMTP servers
+$mail->Host       = 'jemima.dongee.com';  	// Specify main and backup SMTP servers
 $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
 $mail->Username   = $datos['dtc_email'];                  
 $mail->Password   = $datos['dtc_clave_email'];                      
