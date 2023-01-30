@@ -44,26 +44,26 @@
                 <div class="col-lg-2">
                     <div class="items">
                         <div class="title">
-                            Useful Links
+                            Enlaces útiles
                         </div>
                         <ul>
                             <li>
-                                <a href="home-saas-technology.html"> Home </a>
+                                <a href="#0" data-scroll-nav="0"> Inicio </a>
                             </li>
                             <li>
-                                <a href="page-about-5.html"> About Iteck </a>
+                                <a href="#0" data-scroll-nav="1"> Clientes </a>
                             </li>
                             <li>
-                                <a href="page-portfolio-5.html"> Projects </a>
+                                <a href="#0" data-scroll-nav="2"> Caracteristicas </a>
                             </li>
                             <li>
-                                <a href="page-product-5.html"> product </a>
+                                <a href="#0" data-scroll-nav="3"> Precio </a>
                             </li>
                             <li>
-                                <a href="page-blog-5.html"> Blog </a>
+                                <a href="#0" data-scroll-nav="4"> Testimonios </a>
                             </li>
                             <li>
-                                <a href="page-contact-5.html"> Contact </a>
+                                <a href="prueba-gratis.php"> Prueba Gratis </a>
                             </li>
                         </ul>
                     </div>
@@ -71,23 +71,11 @@
                 <div class="col-lg-2">
                     <div class="items">
                         <div class="title">
-                            Resource
+                            Recursos
                         </div>
                         <ul>
                             <li>
-                                <a href="#"> Online Documentation </a>
-                            </li>
-                            <li>
-                                <a href="#"> Roadmap </a>
-                            </li>
-                            <li>
-                                <a href="#"> Intergrations </a>
-                            </li>
-                            <li>
                                 <a href="faq.php"> FAQs </a>
-                            </li>
-                            <li>
-                                <a href="#"> Help Center </a>
                             </li>
                         </ul>
                     </div>
