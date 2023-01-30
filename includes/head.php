@@ -15,7 +15,7 @@
     <title>PLataforma educativa SINTIA, una plataforma para colegios</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
+    <link rel="shortcut icon" href="assets/img/sintia-icono.png" title="Favicon" sizes="16x16" />
 
     <!-- ====== bootstrap icons cdn ====== -->
     <link rel="stylesheet" href="cdn.jsdelivr.net/npm/bootstrap-icons%401.7.2/font/bootstrap-icons.css">
