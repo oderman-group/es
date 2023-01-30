@@ -477,7 +477,10 @@ p {
 .text {
   font-size: 14px;
   line-height: 2; }
-
+.content-small{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 .small, small {
   font-size: 13px;
   line-height: 1.7;
