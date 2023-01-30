@@ -27,7 +27,7 @@ include("includes/head.php");
                     <p>Tendrás 5 días de prueba gratis para explorar la plataforma</p>
                 </div>
                 <div class="text-center mb-100">
-                    <h2 class="ltspc-20 text-uppercase fs-1 lh-1 mb-50 mt-30 color-blue5"><?=$datos['dtc_whatsapp'];?></h2>
+                    <h2 class="ltspc-20 text-uppercase fs-1 lh-1 mb-50 mt-30 secondary"><?=$datos['dtc_whatsapp'];?></h2>
                     <h4 class="fw-normal mb-20 color-000"><?=$datos['dtc_email_ventas'];?></h4>
                 </div>
                 <div class="content">
