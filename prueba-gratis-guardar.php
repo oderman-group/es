@@ -8,7 +8,7 @@ require 'library/phpmailer/Exception.php';
 require 'library/phpmailer/PHPMailer.php';
 require 'library/phpmailer/SMTP.php';
 
-$bdDemo="mobiliar_dev".date("Y");
+$bdDemo="mobiliar_dev_".date("Y");
 
 $clave = rand(10000, 99999);
 mysqli_query($conexion, "INSERT INTO $bdDemo.usuarios(uss_usuario, uss_clave, uss_tipo, uss_nombre, uss_idioma, uss_email, uss_bloqueado, uss_fecha_registro, uss_solicitar_datos, uss_celular)VALUES('" . $_POST["email"] . "', '" . $clave . "', 5, '" . $_POST["nombre"] . "', 1, '" . $_POST["email"] . "', 0, now(), 1, '" . $_POST["celular"] . "')");
