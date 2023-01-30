@@ -31,13 +31,13 @@ include("includes/head.php");
                             </span>
                         </h1>
                         <p>LA PLATAFORMA DE GESTIÓN ESCOLAR, FÁCIL, COMPLETA Y SEGURA PARA LOS COLEGIOS</p>
-                        <form action="https://iteck-html.themescamp.com/contact.php" class="form" method="post">
+                        <form action="prueba-gratis.php" class="form" method="post" name="pruebaEmail">
                             <div class="form-group">
                                 <span class="icon">
                                     <i class="far fa-envelope"></i>
                                 </span>
-                                <input type="text" placeholder="Tu dirección de email">
-                                <a href="page-contact-5.html" class="btn rounded-pill bg-blue5 hover-blue2 sm-butn fw-bold text-white">
+                                <input name="email" type="text" placeholder="Tu dirección de email">
+                                <a href="javascript:;" onclick="document.forms.pruebaEmail.submit()" class="btn rounded-pill bg-blue5 hover-blue2 sm-butn fw-bold text-white">
                                     <span>Prueba gratis <i class="bi bi-arrow-right ms-1"></i> </span>
                                 </a>
                             </div>
