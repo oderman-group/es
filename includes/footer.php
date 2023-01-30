@@ -97,10 +97,10 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-6">
                         <div class="logo">
-                            <img src="assets/img/logo_foot_home5.png" alt="">
+                            <img src="assets/img/sintia-logo-2023.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 content-small">
                         <small class="small">
                             © 2023 Copyrights by <a href="#" class="fw-bold text-decoration-underline">ODERMAN GROUP</a> All
                             Rights Reserved.
