@@ -34,19 +34,19 @@
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
-                                <h2 class="monthly_price">$150K <span>/M</span></h2>
-                                <h2 class="yearly_price">$1.6M <span>/A</span></h2>
+                                <h2 class="monthly_price secondary">$150K <span>/M</span></h2>
+                                <h2 class="yearly_price secondary">$1.6M <span>/A</span></h2>
                             </div>
                             <div class="price-headItem bg-gray5">
                                 <h6>Gold</h6>
-                                <h2 class="monthly_price color-blue5">$210K <span>/M</span></h2>
-                                <h2 class="yearly_price color-blue5">$2.4M <span>/A</span></h2>
+                                <h2 class="monthly_price primary">$210K <span>/M</span></h2>
+                                <h2 class="yearly_price primary">$2.4M <span>/A</span></h2>
                                 <div class="label">Mas Vendido</div>
                             </div>
                             <div class="price-headItem">
                                 <h6>Diamond</h6>
-                                <h2 class="monthly_price">$265K <span>/M</span></h2>
-                                <h2 class="yearly_price">$3.0M <span>/A</span></h2>
+                                <h2 class="monthly_price secondary">$265K <span>/M</span></h2>
+                                <h2 class="yearly_price secondary">$3.0M <span>/A</span></h2>
                             </div>
                         </div>
 
