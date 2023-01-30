@@ -529,17 +529,17 @@
                             <div class="price-footTitle">
                             </div>
                             <div class="price-footItem">
-                                <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
+                                <a href="prueba-gratis.php?plan=1" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
                                     <span> Empezar ahora </span>
                                 </a>
                             </div>
                             <div class="price-footItem bg-gray5">
-                                <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
+                                <a href="prueba-gratis.php?plan=2" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
                                     <span> Empezar ahora </span>
                                 </a>
                             </div>
                             <div class="price-footItem">
-                                <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
+                                <a href="prueba-gratis.php?plan=3" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
                                     <span> Empezar ahora </span>
                                 </a>
                             </div>
