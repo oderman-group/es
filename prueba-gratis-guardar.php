@@ -45,6 +45,8 @@ try {
 	//$mail->addAddress($_POST["email"], $_POST["nombre"]);     // Add a recipient
     $mail->addBCC($_POST["email"]);     // Add a recipient
 	$mail->addBCC('company@plataformasintia.com');     // Add a recipient
+	$mail->addBCC('sales@oderman-group.com');     // Add a recipient
+	$mail->addBCC('info@oderman-group.com');     // Add a recipient
 
 	// Content
 	$mail->isHTML(true);                                  // Set email format to HTML
