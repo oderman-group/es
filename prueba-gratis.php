@@ -41,9 +41,15 @@ include("includes/head.php");
                                             <input type="text" name="nombre" class="form-control" placeholder="Tu nombre"> 
                                         </div>
                                     </div>
+                                    <?php 
+                                        $value="";
+                                        if(isset($_POST['email'])){
+                                            $value=$_POST['email'];
+                                        }
+                                    ?>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="email" name="email" class="form-control" placeholder="Tu email *" required>
+                                            <input value="<?=$value;?>" type="email" name="email" class="form-control" placeholder="Tu email *" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
@@ -51,9 +57,20 @@ include("includes/head.php");
                                             <input type="text" name="celular" class="form-control"  placeholder="Tu celular">
                                         </div>
                                     </div>
+                                    <?php 
+                                        $selected="";
+                                        if(isset($_GET['plan'])){
+                                            $selected="selected";
+                                        }
+                                    ?>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="website" class="form-control" placeholder="Your Website (option)">
+                                            <select name="plan" class="form-select">
+                                                <option value="" >Qué plan deseas adquirir?</option>
+                                                <option value="1" <?php if($_GET['plan']==1){ echo $selected; }?>>Silver</option>
+                                                <option value="2" <?php if($_GET['plan']==2){ echo $selected; }?>>Diamond</option>
+                                                <option value="3" <?php if($_GET['plan']==3){ echo $selected; }?>>Gold</option>
+                                            </select>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
