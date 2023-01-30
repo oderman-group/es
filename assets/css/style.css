@@ -71,8 +71,8 @@ TABLE OF CONTENTS:-
 /* --------------- variable --------------- */
 :root {
   --color-main:#0066ff;
-  --color-primary:#0066ff;
-  --color-secondary:#02b5ff;
+  --color-primary:#6017dc;
+  --color-secondary:#41c4c4;
   --color-blue2: #4a00e1;
   --color-blue4: #5842bc;
   --color-blue5: #157efb;
@@ -90,7 +90,7 @@ TABLE OF CONTENTS:-
   --color-yellowGreen:#cef54b;
   --color-gray:#eef4f8;
   --color-gray2:#f0eff5;
-  --color-main-grad: linear-gradient(to right, #0c3df4 0%, #02b5ff 100%); }
+  --color-main-grad: linear-gradient(to right, #6017dc 0%, #41c4c4 100%); }
 
 .color-main {
   color: var(--color-main) !important; }
@@ -165,8 +165,17 @@ TABLE OF CONTENTS:-
 .color-blue5 {
   color: var(--color-blue5) !important; }
 
+.primary {
+color: var(--color-primary) !important; }
+
+.secondary {
+  color: var(--color-secondary) !important; }
+
 .bg-blue5 {
-  background-color: var(--color-blue5) !important; }
+  background-color: var(--color-secondary) !important; }
+
+.bg-blue5:hover {
+  background-color: var(--color-primary) !important; }
 
 .border-blue5 {
   border-color: var(--color-blue5) !important; }
@@ -1457,9 +1466,9 @@ small.text {
       color: #fff; }
   .butn.blue5-3Dbutn,
   .btn.blue5-3Dbutn {
-    background: var(--color-blue5);
-    -webkit-box-shadow: 0px 4px 0px 0px var(--color-blue4);
-    box-shadow: 0px 4px 0px 0px var(--color-blue4);
+    background: var(--color-secondary);
+    -webkit-box-shadow: 0px 4px 0px 0px var(----color-secondary);
+    box-shadow: 0px 4px 0px 0px var(----color-secondary);
     -webkit-filter: drop-shadow(0 13px 20px #07397235);
     filter: drop-shadow(0 13px 20px #07397235);
     font-size: 12px; }
@@ -1492,7 +1501,7 @@ small.text {
       color: #fff; }
   .butn.hover-blue2:hover,
   .btn.hover-blue2:hover {
-    background: var(--color-blue2);
+    background: var(--color-primary);
     border-color: transparent !important; }
     .butn.hover-blue2:hover span,
     .butn.hover-blue2:hover small,
@@ -1661,7 +1670,7 @@ small.text {
 .section-head.style-5 h2 {
   font-size: 45px; }
   .section-head.style-5 h2 span {
-    color: var(--color-blue5);
+    color: var(--color-primary);
     position: relative;
     display: inline-block;
     padding: 0 5px;
@@ -1673,7 +1682,7 @@ small.text {
       bottom: 0;
       width: 100%;
       height: 40%;
-      background-color: var(--color-blue5);
+      background-color: var(--color-secondary);
       opacity: 8%; }
 
 .section-head.style-5 p {
@@ -1864,7 +1873,7 @@ small.text {
 .top-navbar.style-5 {
   padding: 10px 15px;
   text-align: center;
-  background-color: var(--color-blue5); }
+  background-color: var(--color-primary); }
 
 /* --------------- top navbar style-7 --------------- */
 .top-navbar.style-7 {
@@ -1909,6 +1918,9 @@ small.text {
   padding: 20px 0;
   position: relative;
   font-size: 13px; }
+.prueba-hover:hover{
+  color: var(--color-secondary) !important;
+}
 
 /* ===============================================================
 			[ * top side menu Section ] 
@@ -2392,7 +2404,7 @@ small.text {
     margin: 0 15px;
     text-transform: capitalize; }
     .navbar.style-5 .nav-item .nav-link:hover, .navbar.style-5 .nav-item .nav-link.active {
-      color: var(--color-blue5); }
+      color: var(--color-primary); }
     .navbar.style-5 .nav-item .nav-link .bi {
       position: relative;
       bottom: -5px; }
@@ -6930,14 +6942,14 @@ header.style-15 {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  background-color: #edf2fa;
+  background-color: var(--color-secondary);
   padding: 7px;
   border-radius: 50px; }
   .pricing.style-5 .pricing-tabsHead .price-radios .form-check {
     margin: 0;
     padding: 0; }
     .pricing.style-5 .pricing-tabsHead .price-radios .form-check .form-check-label {
-      color: #000;
+      color: #fff;
       background-color: transparent;
       font-size: 12px;
       font-weight: bold;
@@ -6951,7 +6963,7 @@ header.style-15 {
     .pricing.style-5 .pricing-tabsHead .price-radios .form-check .form-check-input {
       display: none; }
     .pricing.style-5 .pricing-tabsHead .price-radios .form-check .form-check-input:checked ~ .form-check-label {
-      background-color: #fff;
+      background-color: var(--color-primary);
       -webkit-box-shadow: 0 5px 5px #0001;
       box-shadow: 0 5px 5px #0001; }
 
@@ -7087,7 +7099,7 @@ header.style-15 {
       min-height: -moz-max-content;
       min-height: max-content; }
       .pricing.style-5 .content .price-body .price-bodyItems .price-item i {
-        color: var(--color-blue5);
+        color: var(--color-primary);
         font-size: 20px; }
       .pricing.style-5 .content .price-body .price-bodyItems .price-item span {
         color: #000;
@@ -8923,10 +8935,10 @@ header.style-15 {
   border-radius: 15px;
   text-align: center; }
   .features-card.style-5:hover {
-    -webkit-box-shadow: 0px 46px 77px 0px #0a2b5326;
-    box-shadow: 0px 46px 77px 0px #0a2b5326; }
+    -webkit-box-shadow: 0px 46px 77px 0px #084cba77;
+    box-shadow: 0px 46px 77px 0px #084cba77; }
     .features-card.style-5:hover .card-title {
-      color: var(--color-blue5); }
+      color: var(--color-primary); }
   .features-card.style-5 .icon {
     margin-bottom: 40px; }
     .features-card.style-5 .icon img {
@@ -8934,8 +8946,8 @@ header.style-15 {
       height: 80px;
       -o-object-fit: contain;
       object-fit: contain;
-      -webkit-filter: drop-shadow(0 25px 20px #07397235);
-      filter: drop-shadow(0 25px 20px #07397235); }
+      -webkit-filter: drop-shadow(0 25px 20px #084cba77);
+      filter: drop-shadow(0 25px 20px #084cba77); }
   .features-card.style-5 .card-title {
     color: #000;
     font-size: 17.5px;
@@ -10532,14 +10544,14 @@ footer.style-5 {
   footer.style-5 .items .socail-icons {
     margin-top: 30px; }
     footer.style-5 .items .socail-icons a:hover {
-      background-color: var(--color-blue5) !important;
+      background-color: var(--color-secondary) !important;
       color: #fff !important; }
   footer.style-5 .items ul li {
     margin: 5px 0; }
     footer.style-5 .items ul li a {
       font-size: 12px; }
       footer.style-5 .items ul li a:hover {
-        color: var(--color-blue5); }
+        color: var(--color-secondary); }
   footer.style-5 .foot {
     padding: 35px 0 30px;
     position: relative;
