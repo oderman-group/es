@@ -65,7 +65,17 @@ include("includes/head.php");
                                     ?>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                        <select name="option" class="form-select">
+                                            <select name="plan" class="form-select">
+                                                <option value="" >Qué plan deseas adquirir?</option>
+                                                <option value="1" <?php if(isset($_GET['plan']) AND $_GET['plan']==1){ echo $selected; }?>>Silver</option>
+                                                <option value="2" <?php if(isset($_GET['plan']) AND $_GET['plan']==2){ echo $selected; }?>>Diamond</option>
+                                                <option value="3" <?php if(isset($_GET['plan']) AND $_GET['plan']==3){ echo $selected; }?>>Gold</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form-group mb-20">
+                                            <select name="option" class="form-select">
                                                 <option value="how can we help" selected>Para qué requieres la plataforma?</option>
                                                 <option value="1">Colegio</option>
                                                 <option value="2">Universidad</option>
