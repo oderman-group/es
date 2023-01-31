@@ -31,7 +31,7 @@ $contenidoMsj = '
 			
 	<p>
 		<h3 style="text-align: center;">
-		<a href="https://developer.plataformasintia.com/app-sintia/main-app/guardar.php?get=1&usr=' . $idRegistro . '&user=' . $_POST["email"] . '&pass=' . $clave . '" target="_blank" style="color: #41c4c4; font-weight:bold;">ACCEDER A MI CUENTA DE DIRECTIVO AHORA</a>
+		<a href="https://developer.plataformasintia.com/app-sintia/main-app/" target="_blank" style="color: #41c4c4; font-weight:bold;">ACCEDER A MI CUENTA DE DIRECTIVO AHORA</a>
 		</h3>
 	</p>
 			
@@ -56,13 +56,12 @@ try {
 	$mail->CharSet = 'UTF-8';
 
     $mail->send();
-		echo 'Estamos creando su cuenta DEMO... Por favor espere un momento.';
-	} catch (Exception $e) {
-		echo "Error: {$mail->ErrorInfo}";
-		exit();
-	}
+	echo 'Estamos creando su cuenta DEMO... Por favor espere un momento.';
+} catch (Exception $e) {
+	echo "Error: {$mail->ErrorInfo}";
+	exit();
+}
 echo '</div>';
 //FIN ENVÍO DE MENSAJE
-
-echo '<script type="text/javascript">window.location.href="https://developer.plataformasintia.com/app-sintia/main-app/index.php?"</script>';
+echo '<script type="text/javascript">window.location.href="https://developer.plataformasintia.com/app-sintia/main-app/index.php";</script>';
 exit();
