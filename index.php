@@ -68,26 +68,26 @@ include("includes/head.php");
                 <div class="content rounded-pill">
                     <div class="commun-card">
                         <div class="icon">
-                            <img src="assets/img/icons/code3d.png" alt="">
+                            <img src="assets/img/icons/hombre-creativo.png" alt="" width="100" height="100">
                         </div>
                         <div class="inf">
-                            <h5>Tú necesitas una plataforma que te ahorre tiempo.</h5>
+                            <h5>Necesitas una plataforma que te ahorre tiempo.</h5>
                         </div>
                     </div>
                     <div class="commun-card">
                         <div class="icon">
-                            <img src="assets/img/icons/price3d.png" alt="">
+                            <img src="assets/img/icons/hombre-creativo2.png" alt="" width="100" height="100">
                         </div>
                         <div class="inf">
-                            <h5>Tu información segura y disponible cuando la requieras.</h5>
+                            <h5>Tu información estara segura y disponible cuando la requieras.</h5>
                         </div>
                     </div>
                     <div class="commun-card">
                         <div class="icon">
-                            <img src="assets/img/icons/message3d.png" alt="">
+                            <img src="assets/img/icons/price3d.png" alt=""  width="70" height="70">
                         </div>
                         <div class="inf">
-                            <h5>Tú estarás 100% satisfecho o te devolvemos el 100% de tu dinero.</h5>
+                            <h5>Estarás 100% satisfecho o te devolvemos tu dinero.</h5>
                         </div>
                     </div>
                 </div>
