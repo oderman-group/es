@@ -76,7 +76,7 @@ TABLE OF CONTENTS:-
   --color-blue2: #4a00e1;
   --color-blue4: #5842bc;
   --color-blue5: #157efb;
-  --color-blue6: #6640f4;
+  --color-blue6: #6010dd;
   --color-blue7: #8169f1;
   --color-lightBlue:#15f1ff;
   --color-darkBlue:#010049;
@@ -162,8 +162,8 @@ TABLE OF CONTENTS:-
 .border-blue4 {
   border-color: var(--color-blue4) !important; }
 
-.color-blue5 {
-  color: var(--color-blue5) !important; }
+.color-blue6 {
+  color: var(--color-blue6) !important; }
 
 .primary {
 color: var(--color-primary) !important; }
@@ -178,7 +178,7 @@ color: var(--color-primary) !important; }
   background-color: var(--color-primary) !important; }
 
 .border-blue5 {
-  border-color: var(--color-blue5) !important; }
+  border-color: var(--color-blue6) !important; }
 
 .color-blue6 {
   color: var(--color-blue6) !important; }
@@ -837,13 +837,13 @@ small.text {
     font-size: 11px; }
 
 .pagination.color-5 a:hover {
-  color: var(--color-blue5) !important;
-  border-color: var(--color-blue5); }
+  color: var(--color-blue6) !important;
+  border-color: var(--color-blue6); }
 
 .pagination.color-5 a.active {
   color: #fff;
-  border-color: var(--color-blue5);
-  background-color: var(--color-blue5); }
+  border-color: var(--color-blue6);
+  background-color: var(--color-blue6); }
 
 .pagination.color-4 a:hover {
   color: var(--color-blue4) !important;
@@ -1519,7 +1519,7 @@ small.text {
       color: #fff; }
   .butn.hover-blue5:hover,
   .btn.hover-blue5:hover {
-    background: var(--color-blue5) !important;
+    background: var(--color-blue6) !important;
     border-color: transparent !important; }
     .butn.hover-blue5:hover span,
     .butn.hover-blue5:hover small,
@@ -4163,7 +4163,7 @@ header.style-15 {
         bottom: 0;
         height: 1px;
         width: 0%;
-        background-color: var(--color-blue5);
+        background-color: var(--color-blue6);
         -webkit-transition: all 0.3s ease;
         -o-transition: all 0.3s ease;
         transition: all 0.3s ease; }
@@ -4182,7 +4182,7 @@ header.style-15 {
         width: 20px;
         height: 20px;
         border-radius: 50%;
-        background: var(--color-blue5);
+        background: var(--color-blue6);
         color: #fff;
         display: -webkit-inline-box;
         display: -ms-inline-flexbox;
@@ -6278,7 +6278,7 @@ header.style-15 {
     -webkit-box-shadow: 0px 30px 60px 0px #0a2b5326;
     box-shadow: 0px 30px 60px 0px #0a2b5326; }
     .testi-card.style-5:hover .card-title {
-      color: var(--color-blue5); }
+      color: var(--color-blue6); }
   .testi-card.style-5 .stars i {
     color: #27a700;
     font-size: 15px; }
@@ -7057,7 +7057,7 @@ header.style-15 {
           color: #999;
           margin: 0 3px; }
           .pricing.style-5 .content .price-body .price-bodyItems .price-bodyTitle .pop-info i.bttn-info:hover {
-            color: var(--color-blue5); }
+            color: var(--color-blue6); }
         .pricing.style-5 .content .price-body .price-bodyItems .price-bodyTitle .pop-info .hidden_content {
           position: absolute;
           bottom: 15px;
@@ -7073,7 +7073,7 @@ header.style-15 {
           opacity: 0;
           visibility: hidden; }
           .pricing.style-5 .content .price-body .price-bodyItems .price-bodyTitle .pop-info .hidden_content .title {
-            color: var(--color-blue5);
+            color: var(--color-blue6);
             text-transform: uppercase;
             margin-bottom: 5px;
             font-size: 13px;
@@ -11167,7 +11167,7 @@ footer.style-15 {
       text-transform: capitalize;
       margin: 10px; }
       .portfolio-page.style-1 .portfolio-projects.style-1 .controls button.mixitup-control-active {
-        color: var(--color-blue5); }
+        color: var(--color-blue6); }
 
 .portfolio-page.style-1 .download.style-5 {
   position: relative;
@@ -11272,20 +11272,20 @@ footer.style-15 {
   font-size: 12px;
   margin: 20px 3px 0; }
   .single-project.style-5 .share .social-icon:hover {
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     color: #fff; }
   .single-project.style-5 .share .social-icon.hover-blue4:hover {
     background-color: var(--color-blue4);
     color: #fff; }
 
 .single-project.style-5 .projects .project-card.style-6:hover .info .title {
-  color: var(--color-blue5); }
+  color: var(--color-blue6); }
 
 .single-project.style-5 .projects .project-card.style-6 .info small {
-  color: var(--color-blue5); }
+  color: var(--color-blue6); }
 
 .single-project.style-5 .slider-style-6 .swiper-button-next:hover, .single-project.style-5 .slider-style-6 .swiper-button-prev:hover {
-  background-color: var(--color-blue5); }
+  background-color: var(--color-blue6); }
 
 /* ===============================================================
 			[ * services page Style ] 
@@ -11335,7 +11335,7 @@ footer.style-15 {
       border-radius: 50%;
       color: #fff;
       font-size: 25px;
-      background-color: var(--color-blue5);
+      background-color: var(--color-blue6);
       -webkit-box-shadow: 0px 5px 0px 0px var(--color-blue4);
       box-shadow: 0px 5px 0px 0px var(--color-blue4);
       -webkit-filter: drop-shadow(0 13px 20px #0008);
@@ -11376,10 +11376,10 @@ footer.style-15 {
     z-index: 2; }
 
 .about-page .contact .content {
-  border-top: 10px solid var(--color-blue5); }
+  border-top: 10px solid var(--color-blue6); }
 
 .about-page .contact.style-6 .form-group .form-control:focus, .about-page .contact.style-6 .form-group .form-select:focus {
-  border-color: var(--color-blue5); }
+  border-color: var(--color-blue6); }
 
 .culture.style-5 .culture-card {
   position: relative;
@@ -11442,7 +11442,7 @@ footer.style-15 {
 ================================================================*/
 /* --------------- contact page styles --------------- */
 .contact-page.style-5 .contact.style-6 .form-group .form-control:focus, .contact-page.style-5 .contact.style-6 .form-group .form-select:focus {
-  border-color: var(--color-blue5); }
+  border-color: var(--color-blue6); }
 
 .contact-page.style-5 .map iframe {
   width: 100%;
@@ -11512,7 +11512,7 @@ footer.style-15 {
       -o-transition-delay: 0.2s;
       transition-delay: 0.2s; }
   .blog-page.style-5 .blog-details-slider .content-card a:hover {
-    color: var(--color-blue5); }
+    color: var(--color-blue6); }
   .blog-page.style-5 .blog-details-slider .swiper-slide-active .content-card .info small, .blog-page.style-5 .blog-details-slider .swiper-slide-active .content-card .info h2, .blog-page.style-5 .blog-details-slider .swiper-slide-active .content-card .info p {
     opacity: 1;
     -webkit-transform: translateX(0);
@@ -11527,7 +11527,7 @@ footer.style-15 {
       background-color: #fff;
       opacity: 1; }
       .blog-page.style-5 .blog-details-slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-        background-color: var(--color-blue5); }
+        background-color: var(--color-blue6); }
   .blog-page.style-5 .blog-details-slider .swiper-button-next, .blog-page.style-5 .blog-details-slider .swiper-button-prev {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
@@ -11568,9 +11568,9 @@ footer.style-15 {
       -o-object-fit: cover;
       object-fit: cover; }
   .blog-page.style-5 .popular-posts .card .title a:hover {
-    color: var(--color-blue5); }
+    color: var(--color-blue6); }
   .blog-page.style-5 .popular-posts .card a:hover {
-    color: var(--color-blue5); }
+    color: var(--color-blue6); }
 
 .blog-page.style-5 .all-news .card .img {
   height: 200px; }
@@ -11590,7 +11590,7 @@ footer.style-15 {
     width: 100%; }
 
 .blog-page.style-5 .all-news .card a:hover {
-  color: var(--color-blue5); }
+  color: var(--color-blue6); }
 
 .blog-page.style-5 .side-blog {
   position: -webkit-sticky;
@@ -11633,7 +11633,7 @@ footer.style-15 {
       font-size: 10px;
       color: #666; }
     .blog-page.style-5 .side-blog .side-recent-post .post-card:hover .inf h6 {
-      color: var(--color-blue5); }
+      color: var(--color-blue6); }
   .blog-page.style-5 .side-blog .side-categories .cat-item {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -11647,7 +11647,7 @@ footer.style-15 {
     padding: 10px 0;
     border-bottom: 1px solid #9995; }
     .blog-page.style-5 .side-blog .side-categories .cat-item:hover {
-      color: var(--color-blue5);
+      color: var(--color-blue6);
       font-weight: bold; }
   .blog-page.style-5 .side-blog .side-newsletter {
     background-color: #eaeef2;
@@ -11675,7 +11675,7 @@ footer.style-15 {
     font-size: 12px;
     margin: 0 3px; }
     .blog-page.style-5 .side-blog .side-share .social-icon:hover {
-      background-color: var(--color-blue5);
+      background-color: var(--color-blue6);
       color: #fff; }
   .blog-page.style-5 .side-blog .side-insta .insta-img {
     height: 80px;
@@ -11738,7 +11738,7 @@ footer.style-15 {
   background-color: #eef4f8;
   margin-bottom: 4px; }
   .blog-page.style-5 .side-tags a:hover {
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     color: #fff; }
 
 .blog-page.style-5 .blog-share .share-icons a i {
@@ -11772,7 +11772,7 @@ footer.style-15 {
   .blog-page.style-5 .blog-comments .comment-card .social-icons a {
     background-color: #dce1e5; }
     .blog-page.style-5 .blog-comments .comment-card .social-icons a:hover {
-      background-color: var(--color-blue5);
+      background-color: var(--color-blue6);
       color: #fff; }
 
 .blog-page.style-5 .related-postes-slider .swiper-slide-prev {
@@ -11801,7 +11801,7 @@ footer.style-15 {
   border-radius: 50%;
   background: #fff; }
   .blog-page.style-5 .related-postes-slider .swiper-button-next:hover, .blog-page.style-5 .related-postes-slider .swiper-button-prev:hover {
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     color: #fff; }
 
 .blog-page.style-5 .related-postes-slider .swiper-button-next, .blog-page.style-5 .related-postes-slider .swiper-container-rtl .swiper-button-prev {
@@ -11859,7 +11859,7 @@ footer.style-15 {
     .shop-page .filter .filter-card .category-checkRadio .form-check-input {
       display: none; }
     .shop-page .filter .filter-card .category-checkRadio .form-check-input:checked ~ .form-check-label {
-      color: var(--color-blue5); }
+      color: var(--color-blue6); }
   .shop-page .filter .filter-card .accordion .accordion-button {
     color: #000;
     font-size: 11px;
@@ -11873,7 +11873,7 @@ footer.style-15 {
     background-size: 0.8rem;
     background-position: center; }
   .shop-page .filter .filter-card .accordion .accordion-button:not(.collapsed) {
-    color: var(--color-blue5); }
+    color: var(--color-blue6); }
   .shop-page .filter .filter-card .filter-card-item {
     padding-bottom: 15px;
     border-bottom: 1px solid #9994;
@@ -11895,11 +11895,11 @@ footer.style-15 {
         background: #dfdfdf;
         border-radius: 10px; }
       .shop-page .filter .filter-card .filter-card-item .filter-card-body .filter-card-scroll::-webkit-scrollbar-thumb {
-        background: var(--color-blue5);
+        background: var(--color-blue6);
         -webkit-border-radius: 0;
         border-radius: 10px; }
       .shop-page .filter .filter-card .filter-card-item .filter-card-body .filter-card-scroll::-webkit-scrollbar-corner {
-        background: var(--color-blue5);
+        background: var(--color-blue6);
         border-radius: 10px; }
     .shop-page .filter .filter-card .filter-card-item .search-group {
       position: relative;
@@ -11950,7 +11950,7 @@ footer.style-15 {
     .shop-page .filter .filter-card .slider-range-content .amount-input button {
       width: 50px;
       height: 50px;
-      background-color: var(--color-blue5);
+      background-color: var(--color-blue6);
       border: 0;
       color: #fff;
       border-radius: 7px;
@@ -11961,10 +11961,10 @@ footer.style-15 {
     border: 0;
     background-color: #dfdfdf; }
     .shop-page .filter .filter-card .slider-range-content .ui-slider-horizontal .ui-slider-range {
-      background-color: var(--color-blue5); }
+      background-color: var(--color-blue6); }
     .shop-page .filter .filter-card .slider-range-content .ui-slider-horizontal .ui-state-default, .shop-page .filter .filter-card .slider-range-content .ui-slider-horizontal .ui-widget-content .ui-state-default, .shop-page .filter .filter-card .slider-range-content .ui-slider-horizontal .ui-widget-header .ui-state-default, .shop-page .filter .filter-card .slider-range-content .ui-slider-horizontal .ui-button, .shop-page .filter .filter-card .slider-range-content .ui-slider-horizontal html .ui-button.ui-state-disabled:hover, .shop-page .filter .filter-card .slider-range-content .ui-slider-horizontal html .ui-button.ui-state-disabled:active {
       border: 0;
-      background: var(--color-blue5);
+      background: var(--color-blue6);
       border-radius: 50%;
       width: 1em;
       height: 1em; }
@@ -12019,7 +12019,7 @@ footer.style-15 {
       cursor: pointer; }
       .shop-page .products-content .top-filter .r-side .grid-list-btns .bttn:hover, .shop-page .products-content .top-filter .r-side .grid-list-btns .bttn.active {
         color: #fff;
-        background-color: var(--color-blue5); }
+        background-color: var(--color-blue6); }
 
 .shop-page .products-content .products .product-card {
   border: 1px solid #ededed;
@@ -12102,7 +12102,7 @@ footer.style-15 {
     bottom: 15px;
     left: 15px;
     width: calc(100% - 30px);
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     padding: 7px 15px;
     -webkit-transform: translateY(70px);
     -ms-transform: translateY(70px);
@@ -12220,7 +12220,7 @@ footer.style-15 {
           -o-object-fit: contain;
           object-fit: contain; }
       .product-page .product-slider .gallery-thumbs .swiper-slide.swiper-slide-thumb-active .img {
-        border-color: var(--color-blue5); }
+        border-color: var(--color-blue6); }
   .product-page .product-slider .gallery-top .swiper-slide .img {
     height: 500px;
     padding: 3vw;
@@ -12305,7 +12305,7 @@ footer.style-15 {
         .product-page .product-info .color-quantity .select-color .colors-content .form-check .form-check-label .color-circle.green {
           background-color: #9ac419; }
       .product-page .product-info .color-quantity .select-color .colors-content .form-check .form-check-input:checked ~ .form-check-label .color-circle {
-        outline: 1px solid var(--color-blue5); }
+        outline: 1px solid var(--color-blue6); }
 
 .product-page .product-info .qyt-addCart {
   display: -webkit-box;
@@ -12339,7 +12339,7 @@ footer.style-15 {
     .product-page .product-info .qyt-addCart .add-more .qt {
       font-size: 14px; }
   .product-page .product-info .qyt-addCart .btn {
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     padding: 10px 30px;
     width: 40%; }
     .product-page .product-info .qyt-addCart .btn span {
@@ -12372,7 +12372,7 @@ footer.style-15 {
 .product-page .product-info .socail-icons {
   margin-top: 40px; }
   .product-page .product-info .socail-icons a:hover {
-    background-color: var(--color-blue5) !important;
+    background-color: var(--color-blue6) !important;
     color: #fff !important; }
 
 .product-page .product-details .nav-pills {
@@ -12478,7 +12478,7 @@ footer.style-15 {
   border-radius: 50%;
   background-color: #d8dee4; }
   .product-page .related-products .related-products-slider .swiper-button-next:hover, .product-page .related-products .related-products-slider .swiper-button-prev:hover {
-    background: var(--color-blue5); }
+    background: var(--color-blue6); }
 
 .product-page .related-products .related-products-slider .swiper-button-next, .product-page .related-products .related-products-slider .swiper-container-rtl .swiper-button-prev {
   right: -50px; }
@@ -12570,7 +12570,7 @@ footer.style-15 {
     bottom: 15px;
     left: 15px;
     width: calc(100% - 30px);
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     padding: 7px 15px;
     -webkit-transform: translateY(70px);
     -ms-transform: translateY(70px);
@@ -12641,13 +12641,13 @@ footer.style-15 {
         .faq-page.style-5 .faq-tabs .nav .nav-item .nav-card p {
           color: #999; }
         .faq-page.style-5 .faq-tabs .nav .nav-item .nav-card.active {
-          border-color: var(--color-blue5);
+          border-color: var(--color-blue6);
           -webkit-box-shadow: none;
           box-shadow: none; }
 
 .faq-page.style-5 .faq-body .faq-category {
   padding: 50px;
-  background-color: var(--color-blue5);
+  background-color: var(--color-blue6);
   border-radius: 5px;
   color: #fff;
   position: -webkit-sticky;
@@ -12713,7 +12713,7 @@ footer.style-15 {
     box-shadow: none;
     padding: 12px 20px; }
   .faq-page.style-5 .faq-body .faq-questions .accordion-item .accordion-button:not(.collapsed) {
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     color: #fff; }
     .faq-page.style-5 .faq-body .faq-questions .accordion-item .accordion-button:not(.collapsed)::after {
       content: "\f068"; }
@@ -12801,7 +12801,7 @@ footer.style-15 {
     line-height: 50px;
     top: 0;
     right: 30px;
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     color: #fff;
     text-align: center; }
     .careers-page.style-5 .careers-positions .position-card .trend-mark::after {
@@ -12818,7 +12818,7 @@ footer.style-15 {
 
 .careers-page.style-5 .career-form {
   position: relative;
-  background-color: var(--color-blue5);
+  background-color: var(--color-blue6);
   color: #fff; }
   .careers-page.style-5 .career-form .container {
     position: relative;
@@ -12913,7 +12913,7 @@ footer.style-15 {
     padding: 6px 15px;
     border-radius: 30px;
     background-color: #edf5ff;
-    color: var(--color-blue5); }
+    color: var(--color-blue6); }
   .career-details-page.style-5 .summary-card {
     border: 1px solid #9993;
     border-radius: 5px;
@@ -12952,7 +12952,7 @@ footer.style-15 {
       line-height: 50px;
       top: 0;
       right: 30px;
-      background-color: var(--color-blue5);
+      background-color: var(--color-blue6);
       color: #fff;
       text-align: center; }
       .career-details-page.style-5 .careers-positions .position-card .trend-mark::after {
@@ -12980,8 +12980,8 @@ footer.style-15 {
       transition: all 0.3s ease; }
       .career-details-page.style-5 .careers-positions-slider5 .swiper-button-next:hover,
       .career-details-page.style-5 .careers-positions-slider5 .swiper-button-prev:hover {
-        border: 1px solid var(--color-blue5);
-        background: var(--color-blue5); }
+        border: 1px solid var(--color-blue6);
+        background: var(--color-blue6); }
     .career-details-page.style-5 .careers-positions-slider5 .swiper-button-next, .career-details-page.style-5 .careers-positions-slider5 .swiper-container-rtl .swiper-button-prev {
       right: 0; }
     .career-details-page.style-5 .careers-positions-slider5 .swiper-button-prev, .career-details-page.style-5 .careers-positions-slider5 .swiper-container-rtl .swiper-button-next {
@@ -12989,7 +12989,7 @@ footer.style-15 {
       left: auto; }
   .career-details-page.style-5 .career-form {
     position: relative;
-    background-color: var(--color-blue5);
+    background-color: var(--color-blue6);
     color: #fff; }
     .career-details-page.style-5 .career-form p {
       color: #fff; }
@@ -13111,7 +13111,7 @@ footer.style-15 {
           transform: rotate(45deg);
           background-color: #9999; }
         .about-page.style-2 .about.style-2 .info .nav .nav-item .nav-link.active {
-          color: var(--color-blue5); }
+          color: var(--color-blue6); }
     .about-page.style-2 .about.style-2 .pattern_l {
       position: absolute;
       left: 0;
@@ -13135,7 +13135,7 @@ footer.style-15 {
   .about-page.style-2 .timeline {
     position: relative; }
     .about-page.style-2 .timeline .card-year h3 {
-      color: var(--color-blue5);
+      color: var(--color-blue6);
       font-size: 44px; }
     .about-page.style-2 .timeline .timeline-content {
       position: relative; }
@@ -13160,7 +13160,7 @@ footer.style-15 {
           top: calc(50% - 1px);
           width: 28px;
           height: 2px;
-          background-color: var(--color-blue5);
+          background-color: var(--color-blue6);
           z-index: 2; }
         .about-page.style-2 .timeline .timeline-content .timeline-card:first-of-type {
           padding-top: 0; }
@@ -13176,7 +13176,7 @@ footer.style-15 {
           top: 0;
           width: 1px;
           height: 100%;
-          background-color: var(--color-blue5);
+          background-color: var(--color-blue6);
           z-index: 6;
           -webkit-clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
           clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
@@ -13290,7 +13290,7 @@ footer.style-15 {
     -ms-flex-pack: center;
     justify-content: center; }
     .services-details-page.style-5 .ser-details .main-info .testi-card .author .inf p {
-      color: var(--color-blue5); }
+      color: var(--color-blue6); }
     .services-details-page.style-5 .ser-details .main-info .testi-card .author .inf h6 {
       font-size: 18px;
       font-weight: bold; }
@@ -13312,7 +13312,7 @@ footer.style-15 {
     .services-details-page.style-5 .side-links .links-card ul li {
       margin: 15px 0; }
       .services-details-page.style-5 .side-links .links-card ul li a .icon {
-        color: var(--color-blue5);
+        color: var(--color-blue6);
         margin-right: 10px;
         -webkit-transition: all 0.3s ease;
         -o-transition: all 0.3s ease;
@@ -13330,7 +13330,7 @@ footer.style-15 {
       margin-bottom: 300px; }
       .services-details-page.style-5 .side-links .banner1 .title h6 {
         font-weight: 500;
-        color: var(--color-blue5);
+        color: var(--color-blue6);
         margin-bottom: 10px; }
       .services-details-page.style-5 .side-links .banner1 .title h3 {
         font-size: 24px; }
@@ -13433,7 +13433,7 @@ footer.style-15 {
           width: 100%;
           background-color: #fff;
           border-radius: 5px;
-          border-bottom: 3px solid var(--color-blue5); }
+          border-bottom: 3px solid var(--color-blue6); }
           .comming-soon-page.style-5 .comming-soon .content .info .timing .item h2 {
             font-size: calc(2vw + 20px); }
           .comming-soon-page.style-5 .comming-soon .content .info .timing .item small {

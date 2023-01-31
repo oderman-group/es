@@ -3,7 +3,7 @@ $fin =  '<html><body style="background-color:#FFF;">';
 $fin .= '
 		<center>
 			<div style="width:600px; text-align:justify; padding:15px;">
-				<img src="http://plataformasintia.com/images/logo.png" width="40">
+				<img src="https://plataformasintia.com/es/assets/img/sintia-logo-2023.png" width="40">
 			</div>
 
 			<div style="font-family:arial; background:'.$bgTitulo.'; width:600px; color:#FFF; text-align:center; padding:15px;">
@@ -15,7 +15,7 @@ $fin .= '
 			</div>
 
 			<div align="center" style="width:600px; color:#000; text-align:center; padding:15px;">
-				<img src="http://plataformasintia.com/images/logo.png" width="30"><br>
+				<img src="https://plataformasintia.com/es/assets/img/sintia-logo-2023.png" width="30"><br>
 				¡Que tengas un excelente d&iacute;a!<br>
 				<a href="https://plataformasintia.com/">www.plataformasintia.com</a>
 			</div>

@@ -30,7 +30,6 @@ include("includes/head.php");
                                 <img src="assets/img/header/head5_pen.png" alt="" class="head-pen">
                             </span>
                         </h1>
-                        <p>LA PLATAFORMA DE GESTIÓN ESCOLAR, FÁCIL, COMPLETA Y SEGURA PARA LOS COLEGIOS</p>
                         <form action="prueba-gratis.php" class="form" method="post" name="pruebaEmail">
                             <div class="form-group">
                                 <span class="icon">
@@ -64,7 +63,7 @@ include("includes/head.php");
             <div class="container">
                 <div class="section-head text-center mb-40 style-5">
                     <h2 class="mb-20"> Principales <span> Razones para usar sintia </span> </h2>
-                    <p>Unify your business data in one simple ecommerce dashboard</p>
+
                 </div>
                 <div class="content rounded-pill">
                     <div class="commun-card">
@@ -110,13 +109,13 @@ include("includes/head.php");
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="content text-center">
-                            <h2>Administre mejor su institución, todo en una sola
+                            <h2>SINTIA marca la  
                                 <span>
-                                    plataforma
+                                diferencia
                                     <img src="assets/img/header/head5_line.png" alt="" class="head-line">
                                     <img src="assets/img/header/head5_pen.png" alt="" class="head-pen">
                                 </span>
-                                hoy.
+                                en cuanto a plataformas educativas.
                             </h2>
                             <div class="butns mt-70">
                                 <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">

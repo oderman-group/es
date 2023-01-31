@@ -13,8 +13,10 @@ $bdDemo="mobiliar_dev_".date("Y");
 $clave = rand(10000, 99999);
 mysqli_query($conexion, "INSERT INTO $bdDemo.usuarios(uss_usuario, uss_clave, uss_tipo, uss_nombre, uss_idioma, uss_email, uss_bloqueado, uss_fecha_registro, uss_solicitar_datos, uss_celular)VALUES('" . $_POST["email"] . "', '" . $clave . "', 5, '" . $_POST["nombre"] . "', 1, '" . $_POST["email"] . "', 0, now(), 1, '" . $_POST["celular"] . "')");
 $idRegistro = mysqli_insert_id($conexion);
+echo "- Se creó el usuario en la base de datos<br>";
 
 mysqli_query($conexion, "INSERT INTO demo(demo_fecha_ingreso, demo_usuario, demo_ip, demo_cantidad, demo_correo_enviado, demo_fecha_ultimo_correo, demo_nocorreos)VALUES(now(), '" . $idRegistro . "', '" . $_SERVER["REMOTE_ADDR"] . "', 0, 1, now(), 0)");
+echo "- Se creó el usuario en la tabla demo<br>";
 
 //INICIO ENVÍO DE MENSAJE
 $tituloMsj = "¡Bienvenido a la Plataforma SINTIA!";
@@ -45,8 +47,7 @@ try {
 	//$mail->addAddress($_POST["email"], $_POST["nombre"]);     // Add a recipient
     $mail->addBCC($_POST["email"]);     // Add a recipient
 	$mail->addBCC('company@plataformasintia.com');     // Add a recipient
-	$mail->addBCC('sales@oderman-group.com');     // Add a recipient
-	$mail->addBCC('info@oderman-group.com');     // Add a recipient
+	$mail->addBCC('corozco@unac.edu.co');     // Add a recipient
 
 	// Content
 	$mail->isHTML(true);                                  // Set email format to HTML

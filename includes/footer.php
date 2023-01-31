@@ -5,12 +5,12 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="items">
                         <div class="title">
-                            Iteck - 1st eCommerce Dashboard
+                            ¿Sabías esto?
                         </div>
                         <small class="text">
-                            Over 25 years working in IT services developing software applications and mobile apps for
-                            clients all over the world. For your very specific industry, <br> we have highly-tailored IT
-                            solutions.
+                        SINTIA es la Plataforma Ganadora del undécimo concurso
+                        de Capital Semilla en Medellín por su
+                        Innovación y Gran Aporte a la Educación.
                         </small>
                         <div class="socail-icons">
                             <a href="https://twitter.com/platsintia"
@@ -47,21 +47,6 @@
                             Enlaces útiles
                         </div>
                         <ul>
-                            <li>
-                                <a href="#0" data-scroll-nav="0"> Inicio </a>
-                            </li>
-                            <li>
-                                <a href="#0" data-scroll-nav="1"> Clientes </a>
-                            </li>
-                            <li>
-                                <a href="#0" data-scroll-nav="2"> Caracteristicas </a>
-                            </li>
-                            <li>
-                                <a href="#0" data-scroll-nav="3"> Precio </a>
-                            </li>
-                            <li>
-                                <a href="#0" data-scroll-nav="4"> Testimonios </a>
-                            </li>
                             <li>
                                 <a href="prueba-gratis.php"> Prueba Gratis </a>
                             </li>

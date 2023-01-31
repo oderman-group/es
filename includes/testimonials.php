@@ -3,7 +3,6 @@
             <div class="container">
                 <div class="section-head text-center mb-60 style-5">
                     <h2 class="mb-20"> Algunos <span> testimonios </span> </h2>
-                    <p> Iteck loved from thoudsands customer worldwide and get trusted from big companies. </p>
                 </div>
             </div>
             <div class="content">
