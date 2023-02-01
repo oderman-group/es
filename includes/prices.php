@@ -30,7 +30,7 @@
                     <div class="content">
                         <div class="price-head">
                             <div class="price-headTitle">
-                                <img src="assets/img/icons/price_s5.png" alt="">
+                                <img src="assets/img/icons/precio-etiqueta.png" alt="">
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
