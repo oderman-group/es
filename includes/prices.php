@@ -30,7 +30,7 @@
                     <div class="content">
                         <div class="price-head">
                             <div class="price-headTitle">
-                                <img src="assets/img/icons/price_s5.png" alt="">
+                                <img src="assets/img/icons/recurso_16.png" alt="" width="250">
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
@@ -102,14 +102,13 @@
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
-                                    Módulo académico
+                                    Módulo Académico
                                     <div class="pop-info">
                                         <i class="fas fa-info-circle bttn-info"></i>
                                         <div class="hidden_content">
                                             <div class="title">Módulo académico</div>
                                             <small class="small color-777 lh-5">
-                                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. In voluptatum,
-                                                eos ad quia sint recusandae.
+                                                Inscripciones, matrículas, cargas académicas...
                                             </small>
                                         </div>
                                     </div>
@@ -133,8 +132,7 @@
                                         <div class="hidden_content">
                                             <div class="title">Módulo Comunicativo</div>
                                             <small class="small color-777 lh-5">
-                                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. In voluptatum,
-                                                eos ad quia sint recusandae.
+                                                Noticias, correo interno, envío de mensajes...
                                             </small>
                                         </div>
                                     </div>
@@ -152,14 +150,13 @@
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
-                                    Módulo financiero
+                                    Módulo Financiero
                                     <div class="pop-info">
                                         <i class="fas fa-info-circle bttn-info"></i>
                                         <div class="hidden_content">
                                             <div class="title">Módulo financiero</div>
                                             <small class="small color-777 lh-5">
-                                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. In voluptatum,
-                                                eos ad quia sint recusandae.
+                                            Cobros, ingresos, egresos, estados de cuenta...
                                             </small>
                                         </div>
                                     </div>
@@ -176,37 +173,13 @@
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
-                                    Módulo disciplinario
+                                    Módulo de Convivencia
                                     <div class="pop-info">
                                         <i class="fas fa-info-circle bttn-info"></i>
                                         <div class="hidden_content">
                                             <div class="title">Módulo financiero</div>
                                             <small class="small color-777 lh-5">
-                                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. In voluptatum,
-                                                eos ad quia sint recusandae.
-                                            </small>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="price-item"></div>
-                                
-                                <div class="price-item bg-gray5"></div>
-
-                                <div class="price-item">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                            </div>
-
-                            <div class="price-bodyItems">
-                                <div class="price-bodyTitle">
-                                    Módulo mercadeo
-                                    <div class="pop-info">
-                                        <i class="fas fa-info-circle bttn-info"></i>
-                                        <div class="hidden_content">
-                                            <div class="title">Módulo financiero</div>
-                                            <small class="small color-777 lh-5">
-                                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. In voluptatum,
-                                                eos ad quia sint recusandae.
+                                                Reportes, faltas, observador del alumno...
                                             </small>
                                         </div>
                                     </div>
@@ -284,20 +257,6 @@
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
-                                    Chat institucional
-                                </div>
-                                <div class="price-item">
-                                </div>
-                                <div class="price-item bg-gray5">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                                <div class="price-item">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                            </div>
-
-                            <div class="price-bodyItems">
-                                <div class="price-bodyTitle">
                                     Exámenes en línea
                                 </div>
                                 <div class="price-item">
@@ -317,13 +276,13 @@
                                     Capacitación virtual
                                 </div>
                                 <div class="price-item">
-                                    2 HORAS
+                                    2 SESIONES (MAX. 1 HORA)
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    2 HORAS
+                                    4 SESIONES (MAX. 1 HORA)
                                 </div>
                                 <div class="price-item">
-                                    2 HORAS
+                                    6 SESIONES (MAX. 1 HORA)
                                 </div>
                             </div>
 
@@ -377,13 +336,13 @@
                                     Almacenamiento
                                 </div>
                                 <div class="price-item">
-                                    10 GB
+                                    5 GB
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    25 GB
+                                    10 GB
                                 </div>
                                 <div class="price-item">
-                                    50 GB
+                                    25 GB
                                 </div>
                             </div>
 
@@ -392,21 +351,6 @@
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
                                     Soporte por correo
-                                </div>
-                                <div class="price-item">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                                <div class="price-item bg-gray5">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                                <div class="price-item">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                            </div>
-
-                            <div class="price-bodyItems">
-                                <div class="price-bodyTitle">
-                                    Soporte por chat web
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
@@ -435,19 +379,6 @@
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
-                                    Soporte por teléfono
-                                </div>
-                                <div class="price-item">
-                                </div>
-                                <div class="price-item bg-gray5">
-                                </div>
-                                <div class="price-item">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                            </div>
-
-                            <div class="price-bodyItems">
-                                <div class="price-bodyTitle">
                                     Horario de atención
                                 </div>
                                 <div class="price-item">
@@ -468,7 +399,7 @@
                                     Respaldo de datos
                                 </div>
                                 <div class="price-item">
-                                    Mensual
+                                    Quincenal
                                 </div>
                                 <div class="price-item bg-gray5">
                                     Semanal
@@ -480,10 +411,10 @@
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
-                                    Importación inicial
+                                    Importación inicial de la información
                                 </div>
                                 <div class="price-item">
-                                    Cotización
+                                    $100.000 COP.
                                 </div>
                                 <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
@@ -496,9 +427,18 @@
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
                                     Personalización boletín
+                                    <div class="pop-info">
+                                        <i class="fas fa-info-circle bttn-info"></i>
+                                        <div class="hidden_content">
+                                            <div class="title">Personalización boletín</div>
+                                            <small class="small color-777 lh-5">
+                                                La plataforma cuenta con varios formas de boletín, sin embargo la institución puede solicitar la personalización del suyo. 
+                                            </small>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="price-item">
-                                    Cotización
+                                    $100.000 COP.
                                 </div>
                                 <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
