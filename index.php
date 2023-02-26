@@ -35,23 +35,23 @@ include("includes/head.php");
                                 <span class="icon">
                                     <i class="far fa-envelope"></i>
                                 </span>
-                                <input name="email" type="text" placeholder="Tu dirección de email">
+                                <input name="email" type="text" placeholder="Tu dirección de email" required>
                                 <a href="javascript:;" onclick="document.forms.pruebaEmail.submit()" class="btn rounded-pill bg-blue5 hover-blue2 sm-butn fw-bold text-white">
                                     <span>Prueba gratis <i class="bi bi-arrow-right ms-1"></i> </span>
                                 </a>
                             </div>
                         </form>
                         <div class="main-img">
-                            <img src="assets/img/header/header5_page.png" alt="" class="page-img">
-                            <img src="assets/img/header/header5_linechart.png" alt="" class="linechart-img">
-                            <img src="assets/img/header/header5_piechart.png" alt="" class="piechart-img">
+                            <img src="assets/img/header/recurso_2_8.png" alt="" class="page-img">
+                            <!--<img src="assets/img/header/recurso_5_8.png" alt="" class="linechart-img">-->
+                            <img src="assets/img/header/recurso_6_8.png" alt="" class="piechart-img">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <img src="assets/img/header/header5_handl.png" alt="" class="handl-img">
-        <img src="assets/img/header/header5_handr.png" alt="" class="handr-img">
+        <img src="assets/img/header/recurso_3_8.png" alt="" class="handl-img">
+        <img src="assets/img/header/recurso_1_8.png" alt="" class="handr-img">
     </header>
     <!-- ====== end header ====== -->
 
@@ -68,7 +68,7 @@ include("includes/head.php");
                 <div class="content rounded-pill">
                     <div class="commun-card">
                         <div class="icon">
-                            <img src="assets/img/icons/hombre-creativo.png" alt="" width="100" height="100">
+                            <img src="assets/img/icons/recurso_13.png" alt="" width="80">
                         </div>
                         <div class="inf">
                             <h5>Necesitas una plataforma que te ahorre tiempo.</h5>
@@ -76,7 +76,7 @@ include("includes/head.php");
                     </div>
                     <div class="commun-card">
                         <div class="icon">
-                            <img src="assets/img/icons/hombre-creativo2.png" alt="" width="100" height="100">
+                            <img src="assets/img/icons/recurso_14.png" alt="" width="80">
                         </div>
                         <div class="inf">
                             <h5>Tu información estara segura y disponible cuando la requieras.</h5>
@@ -84,7 +84,7 @@ include("includes/head.php");
                     </div>
                     <div class="commun-card">
                         <div class="icon">
-                            <img src="assets/img/icons/price3d.png" alt=""  width="70" height="70">
+                            <img src="assets/img/icons/recurso_15.png" alt="" width="80">
                         </div>
                         <div class="inf">
                             <h5>Estarás 100% satisfecho o te devolvemos tu dinero.</h5>

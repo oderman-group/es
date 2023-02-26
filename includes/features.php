@@ -16,7 +16,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/escribiendo-doc.png" alt="">
+                                    <img src="assets/img/icons/features/recurso1.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
