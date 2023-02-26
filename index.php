@@ -71,7 +71,7 @@ include("includes/head.php");
                             <img src="assets/img/icons/recurso_13.png" alt="" width="80">
                         </div>
                         <div class="inf">
-                            <h5>Tú necesitas una plataforma que te ahorre tiempo.</h5>
+                            <h5>Necesitas una plataforma que te ahorre tiempo.</h5>
                         </div>
                     </div>
                     <div class="commun-card">
@@ -79,7 +79,7 @@ include("includes/head.php");
                             <img src="assets/img/icons/recurso_14.png" alt="" width="80">
                         </div>
                         <div class="inf">
-                            <h5>Tu información segura y disponible cuando la requieras.</h5>
+                            <h5>Tu información estara segura y disponible cuando la requieras.</h5>
                         </div>
                     </div>
                     <div class="commun-card">
@@ -87,7 +87,7 @@ include("includes/head.php");
                             <img src="assets/img/icons/recurso_15.png" alt="" width="80">
                         </div>
                         <div class="inf">
-                            <h5>Tú estarás 100% satisfecho o te devolvemos el 100% de tu dinero.</h5>
+                            <h5>Estarás 100% satisfecho o te devolvemos tu dinero.</h5>
                         </div>
                     </div>
                 </div>

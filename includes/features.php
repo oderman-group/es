@@ -31,7 +31,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/2.png" alt="">
+                                    <img src="assets/img/icons/features/gestion-tareas.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -46,7 +46,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/3.png" alt="">
+                                    <img src="assets/img/icons/features/calendario-horario.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -61,7 +61,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/4.png" alt="">
+                                    <img src="assets/img/icons/features/evaluaciones.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -76,7 +76,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 mb-lg-0 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/7.png" alt="">
+                                    <img src="assets/img/icons/features/certificado.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -91,7 +91,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 mb-lg-0 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/6.png" alt="">
+                                    <img src="assets/img/icons/features/recibos-facturas.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -106,7 +106,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 mb-lg-0 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/7.png" alt="">
+                                    <img src="assets/img/icons/features/grafico-inform.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -121,7 +121,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/8.png" alt="">
+                                    <img src="assets/img/icons/features/grafico-circular.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -136,7 +136,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 mb-lg-0 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/5.png" alt="">
+                                    <img src="assets/img/icons/features/actividades.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -151,7 +151,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 mb-lg-0 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/6.png" alt="">
+                                    <img src="assets/img/icons/features/boletines.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -166,7 +166,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/8.png" alt="">
+                                    <img src="assets/img/icons/features/contracts.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
@@ -181,7 +181,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 mb-lg-0 style-5">
                                 <div class="icon">
-                                    <img src="assets/img/icons/features/5.png" alt="">
+                                    <img src="assets/img/icons/features/reports.png" alt="">
                                 </div>
                                 <div class="info">
                                     <h5 class="card-title">
