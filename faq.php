@@ -15,75 +15,13 @@ include("includes/head.php");
     <section class="inner-header style-5">
         <div class="container">
             <div class="content">
-                <!-- <div class="links">
-                    <a href="#"> Home </a>
-                    <a href="#"> Faq </a>
-                </div> -->
                 <h2> Preguntas Frecuentes </h2>
                 <img src="assets/img/header/head7_rock.png" alt="" class="side-img slide_up_down">
             </div>
         </div>
     </section>
-    <!-- ====== end inner-header style-5 ====== -->
-
-
     <!--Contents-->
     <main class="faq-page style-5 section-padding">
-
-        <!-- ====== start faq-tabs style-5 ====== -->
-        <section class="faq-tabs style-5">
-            <div class="container">
-                <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                    <li class="nav-item" role="presentation">
-                      <button class="nav-card active" id="faq1-tab" data-bs-toggle="pill" data-bs-target="#faq1" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
-                            <div class="icon img-contain">
-                                <img src="assets/img/icons/users.png" alt="">
-                            </div>
-                            <div class="info">
-                                <h5> About Account </h5>
-                                <p> 08 Answer </p>
-                            </div>
-                      </button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                      <button class="nav-card" id="faq2-tab" data-bs-toggle="pill" data-bs-target="#faq2" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">
-                        <div class="icon img-contain">
-                            <img src="assets/img/icons/protect.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h5> Privacy & Policy </h5>
-                            <p> 20 Answer </p>
-                        </div>
-                    </button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                      <button class="nav-card" id="faq3-tab" data-bs-toggle="pill" data-bs-target="#faq1" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">
-                        <div class="icon img-contain">
-                            <img src="assets/img/icons/dollar.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h5> Refund Option </h5>
-                            <p> 18 Answer </p>
-                        </div>
-                    </button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-card" id="faq4-tab" data-bs-toggle="pill" data-bs-target="#faq2" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">
-                            <div class="icon img-contain">
-                                <img src="assets/img/icons/24hour.png" alt="">
-                            </div>
-                            <div class="info">
-                                <h5> Support & More </h5>
-                                <p> 33 Answer </p>
-                            </div>
-                        </button>
-                    </li>
-                </ul>
-            </div>
-        </section>
-        <!-- ====== end faq-tabs style-5 ====== -->
-
-
         <!-- ====== end faq-body style-5 ====== -->
         <div class="tab-content" id="pills-tabContent">
             <div class="tab-pane fade show active" id="faq1" role="tabpanel">
