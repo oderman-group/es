@@ -57,19 +57,16 @@ include("includes/head.php");
                                             <input type="text" name="celular" class="form-control"  placeholder="Tu celular">
                                         </div>
                                     </div>
-                                    <?php 
-                                        $selected="";
-                                        if(isset($_GET['plan'])){
-                                            $selected="selected";
-                                        }
-                                    ?>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
                                             <select name="plan" class="form-select">
                                                 <option value="" >Qué plan deseas adquirir?</option>
-                                                <option value="1" <?php if(isset($_GET['plan']) AND $_GET['plan']==1){ echo $selected; }?>>Silver</option>
-                                                <option value="2" <?php if(isset($_GET['plan']) AND $_GET['plan']==2){ echo $selected; }?>>Diamond</option>
-                                                <option value="3" <?php if(isset($_GET['plan']) AND $_GET['plan']==3){ echo $selected; }?>>Gold</option>
+                                                <?php
+                                                $consultaPlan = mysqli_query($conexion, "SELECT * FROM planes_sintia");
+                                                while($plan = mysqli_fetch_array($consultaPlan, MYSQLI_BOTH)){
+                                                ?>
+                                                <option value="<?=$plan['plns_id'];?>" <?php if(!empty($_GET['plan']) AND $plan['plns_id']==$_GET['plan']){echo "selected";}?>><?=$plan['plns_nombre']?></option>
+                                                <?php }?>
                                             </select>
                                         </div>
                                     </div>
