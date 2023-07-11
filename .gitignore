@@ -1,1 +1,2 @@
 config/conexion-datos.php
+config/sensitive.php
