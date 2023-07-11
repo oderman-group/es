@@ -1,5 +1,6 @@
 <?php 
 include("conexion-datos.php");
+include("sensitive.php");
 $conexion = mysqli_connect($servidorConexion, $usuarioConexion, $claveConexion, $baseDatosServicios);
 
 $consultaDatos = mysqli_query($conexion, "SELECT * FROM datos_contacto WHERE dtc_id=1");
