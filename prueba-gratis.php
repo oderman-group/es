@@ -81,9 +81,9 @@ include("includes/head.php");
                                     </div>
                                     <div class="col-lg-12 text-center">
                                         <div class="form-check d-inline-flex mt-30 mb-30">
-                                            <input class="form-check-input me-2 mt-0" type="checkbox" value="" id="flexCheckDefault">
+                                            <input class="form-check-input me-2 mt-0" type="checkbox" required  id="flexCheckDefault">
                                             <label class="form-check-label small" for="flexCheckDefault">
-                                                Acepto los <a href="#" class="text-decoration-underline">Términos & Condiciones</a>
+                                                Acepto los <a href="#" class="text-decoration-underline" data-bs-toggle="modal" data-bs-target="#ModalTerminosCondiciones">Términos & Condiciones</a>
                                             </label>
                                         </div>
                                     </div>
@@ -100,7 +100,31 @@ include("includes/head.php");
             </div>
         </section>
         <!-- ====== end contact page ====== -->
-
+        <!-- Modal -->
+        <div class="modal fade bd-example-modal-lg" tabindex="-1"  id="ModalTerminosCondiciones"  role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Términos & Condiciones</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                    <?php  include("includes/terminos-condiciones.php"); ?>
+                    </div>
+                    <div class="modal-footer">
+                    <button type="button" class="btn rounded-pill sm-butn fw-bold text-light"  style="color:#FFFFFF;background:#667474;font-size: 12px;" onclick="aceptarTerminos(false)" data-bs-dismiss="modal">No aceptar</button>
+                    <button type="button" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold text-light" onclick="aceptarTerminos(true)">Aceptar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+        function aceptarTerminos(aceptar) {
+            var checkbox = document.getElementById('flexCheckDefault');
+            checkbox.checked = aceptar;
+            $('#ModalTerminosCondiciones').modal('hide');
+        }
+        </script>
         <!-- ====== start contact page ====== -->
         <!-- <div class="map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24219.60999175365!2d-73.9764341314902!3d40.64198229194528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b400c94a227%3A0x18e2a4d3fb21f0ec!2sFlatbush%2C%20Brooklyn%2C%20NY%2C%20USA!5e0!3m2!1sen!2seg!4v1651361759450!5m2!1sen!2seg" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
