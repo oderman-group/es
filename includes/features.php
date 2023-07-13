@@ -14,40 +14,40 @@
                 <div class="content">
                 <div class="row">
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_1.png" class="zoom mb-30 features-card style-5"  >
+                                <img src="assets/img/icons/features/Recurso_1.png" class="zoom mb-30 features-card style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
                                 <img src="assets/img/icons/features/Recurso_2.png"  class="zoom mb-30 style-5 features-card " >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_3.png" class="zoom mb-30  features-card  style-5" >
+                                <img src="assets/img/icons/features/Recurso_3.png" class="zoom mb-30  features-card  style-5" >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_4.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_4.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_5.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_5.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_6.png"  class="zoom mb-30  features-card  style-5" >
+                                <img src="assets/img/icons/features/Recurso_6.png"  class="zoom mb-30  features-card  style-5" >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_7.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_7.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_8.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_8.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_9.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_9.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_10.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_10.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_11.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_11.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                         <div class="col-lg-3 col-sm-6 ">
-                                <img src="assets/img/icons/features/recurso_12.png"  class="zoom mb-30  features-card  style-5"  >
+                                <img src="assets/img/icons/features/Recurso_12.png"  class="zoom mb-30  features-card  style-5"  >
                         </div>
                     </div>
                 </div>
