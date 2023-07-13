@@ -8930,14 +8930,17 @@ header.style-15 {
 /* --------------- features style-5 --------------- */
 .features-card.style-5 {
   display: block;
-  padding: 40px;
+  padding: 0px;
   background-color: #fff;
-  border-radius: 15px;
-  text-align: center; }
+  border-radius: 30px;
+  text-align: center;
+  transition: transform 0.2s ease-in-out !important;
+}
   .features-card.style-5:hover {
     -webkit-box-shadow: 0px 46px 77px 0px #084cba77;
-    box-shadow: 0px 46px 77px 0px #084cba77; }
-    .features-card.style-5:hover .card-title {
+    box-shadow: 0px 46px 77px 0px #084cba77;
+    transform: scale(1.2) !important;}
+  .features-card.style-5:hover .card-title {
       color: var(--color-primary); }
   .features-card.style-5 .icon {
     margin-bottom: 40px; }
@@ -8959,7 +8962,7 @@ header.style-15 {
   .features-card.style-5 .text {
     font-size: 12.5px;
     line-height: 1.8;
-    color: #777; }
+    color: #777; }    
 
 /* --------------- features style-7 --------------- */
 .features.style-7 {

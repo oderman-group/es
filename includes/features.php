@@ -12,7 +12,48 @@
                     </div>
                 </div>
                 <div class="content">
-                    <div class="row">
+                <div class="row">
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_1.png" class="zoom mb-30 features-card style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/Recurso_2.png"  class="zoom mb-30 style-5 features-card " >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_3.png" class="zoom mb-30  features-card  style-5" >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_4.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_5.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_6.png"  class="zoom mb-30  features-card  style-5" >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_7.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_8.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_9.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_10.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_11.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                        <div class="col-lg-3 col-sm-6 ">
+                                <img src="assets/img/icons/features/recurso_12.png"  class="zoom mb-30  features-card  style-5"  >
+                        </div>
+                    </div>
+                </div>
+                <!-- contenedor anterior
+                    <div class="content">
+                    <div class="row">                  
                         <div class="col-lg-3 col-sm-6">
                             <a href="#" class="features-card mb-30 style-5">
                                 <div class="icon">
@@ -22,179 +63,15 @@
                                     <h5 class="card-title">
                                     Matriculas, Inscripciones & Formularios
                                     </h5>
-                                    <!-- <p class="text">
+                                     <p class="text">
                                         Ideal for businesses that are seasonal or operate between fixed hours.
-                                    </p> -->
+                                    </p> 
                                 </div>
                             </a>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/gestion-tareas.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                    Calificaciones, Recuperaciones & Nivelación
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Set up irresistible deals and offers with flexible discount promo codes.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/calendario-horario.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Cargas académicas, Horarios, Asistencias & Planes de clases
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Import products from and export products to CSV from vendor dashboard.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/evaluaciones.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Examenes inteligentes en linea & Puestos
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Interaction with sellers help buyers to make better purchase decisions.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/certificado.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Certificados, Constancias & Libro final
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Allow searching products or services near the user’s current location.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/recibos-facturas.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Pagos, Cobros, Estados de cuenta & Recibos
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Order fulfillment made easy with store invoices and shipping labels.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/grafico-inform.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Consolidado final & Promoción de estudiantes
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Allow searching products or services near the user’s current location.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/grafico-circular.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Reportes gráficos, Estadisticas & Informes impresos
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Share tracking of deliveries, notify when shipping status changes.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/actividades.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Actividades & Foros
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Offer membership plans for sellers, free and paid. Accept recurring fees.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/boletines.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Boletin & Corte de periodo
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Order fulfillment made easy with store invoices and shipping labels.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/contracts.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Contratos, Pagarés & Compromisos
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Share tracking of deliveries, notify when shipping status changes.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
-                                <div class="icon">
-                                    <img src="assets/img/icons/features/reports.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h5 class="card-title">
-                                        Observador & Reportes
-                                    </h5>
-                                    <!-- <p class="text">
-                                        Offer membership plans for sellers, free and paid. Accept recurring fees.
-                                    </p> -->
-                                </div>
-                            </a>
-                        </div>
+                       
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
         <!-- ====== end features ====== -->
