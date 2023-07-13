@@ -177,9 +177,53 @@
                                     <div class="pop-info">
                                         <i class="fas fa-info-circle bttn-info"></i>
                                         <div class="hidden_content">
-                                            <div class="title">Módulo financiero</div>
+                                            <div class="title">Módulo de convivencia</div>
                                             <small class="small color-777 lh-5">
                                                 Reportes, faltas, observador del alumno...
+                                            </small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-item"></div>
+                                
+                                <div class="price-item bg-gray5"></div>
+
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Módulo de media técnica
+                                    <div class="pop-info">
+                                        <i class="fas fa-info-circle bttn-info"></i>
+                                        <div class="hidden_content">
+                                            <div class="title">Módulo de media técnica</div>
+                                            <small class="small color-777 lh-5">
+                                                Cursos y asignaturas adicionales
+                                            </small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-item"></div>
+                                
+                                <div class="price-item bg-gray5"></div>
+
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Módulo de inscripciones
+                                    <div class="pop-info">
+                                        <i class="fas fa-info-circle bttn-info"></i>
+                                        <div class="hidden_content">
+                                            <div class="title">Módulo de inscripciones</div>
+                                            <small class="small color-777 lh-5">
+                                                Inscripciones estudiantiles
                                             </small>
                                         </div>
                                     </div>
