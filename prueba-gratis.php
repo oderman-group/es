@@ -1,7 +1,14 @@
 <?php 
 include("config/conexion.php");
-
 include("includes/head.php");
+$datosPruebaGratis = [
+	'nombre'     => '',
+	'celular'      => ''
+];
+if(!empty($_GET)){
+	$datosPruebaGratis['nombre'] = base64_decode($_GET['nombre']);
+	$datosPruebaGratis['celular'] = base64_decode($_GET['celular']);
+}
 ?>
 
 </head>
@@ -38,13 +45,13 @@ include("includes/head.php");
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="nombre" class="form-control" placeholder="Tu nombre"> 
+                                            <input type="text" name="nombre" class="form-control" placeholder="Tu nombre" value="<?=$datosPruebaGratis['nombre'];?>"> 
                                         </div>
                                     </div>
                                     <?php 
                                         $value="";
-                                        if(isset($_POST['email'])){
-                                            $value=$_POST['email'];
+                                        if(!empty($_REQUEST['email'])){
+                                            $value=base64_decode($_REQUEST['email']);
                                         }
                                     ?>
                                     <div class="col-lg-6">
@@ -54,7 +61,7 @@ include("includes/head.php");
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="celular" class="form-control"  placeholder="Tu celular">
+                                            <input type="text" name="celular" class="form-control"  placeholder="Tu celular" value="<?=$datosPruebaGratis['celular'];?>">
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
@@ -65,7 +72,7 @@ include("includes/head.php");
                                                 $consultaPlan = mysqli_query($conexion, "SELECT * FROM planes_sintia");
                                                 while($plan = mysqli_fetch_array($consultaPlan, MYSQLI_BOTH)){
                                                 ?>
-                                                <option value="<?=$plan['plns_id'];?>" <?php if(!empty($_GET['plan']) AND $plan['plns_id']==$_GET['plan']){echo "selected";}?>><?=$plan['plns_nombre']?></option>
+                                                <option value="<?=$plan['plns_id'];?>" <?php if(!empty($_GET['plan']) AND $plan['plns_id']==base64_decode($_GET['plan'])){echo "selected";}?>><?=$plan['plns_nombre']?></option>
                                                 <?php }?>
                                             </select>
                                         </div>
@@ -74,9 +81,23 @@ include("includes/head.php");
                                         <div class="form-group mb-20">
                                             <select name="option" class="form-select">
                                                 <option value="how can we help" selected>Para qué requieres la plataforma?</option>
-                                                <option value="1">Colegio</option>
-                                                <option value="2">Universidad</option>
+                                                <option value="1" <?php if(!empty($_GET['option']) AND base64_decode($_GET['option'])==1){echo "selected";}?>>Colegio</option>
+                                                <option value="2" <?php if(!empty($_GET['option']) AND base64_decode($_GET['option'])==2){echo "selected";}?>>Universidad</option>
                                             </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 text-center">
+                                        <div class="form-group mb-20">
+                                            <?php
+                                                if(!empty($_GET['error']) && $_GET['error']==1){
+                                                    echo '<p class="text-center text-danger fs-12px mb-30">La validación ha sido incorrecta.</p>';
+                                                }
+                                                $numA1 = rand(1, 10);
+                                                $numA2 = rand(1, 10);
+                                                $resultadoA = $numA1 + $numA2;
+                                            ?>
+                                            <input type="hidden" name="sumaReal" value="<?= md5($resultadoA); ?>" />
+                                            <input type="text" name="suma" class="form-control" placeholder="Valida que no eres un Robot. ¿Cuánto es <?= $numA1 . "+" . $numA2; ?>?" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-12 text-center">
