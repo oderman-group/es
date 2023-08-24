@@ -10,6 +10,12 @@ require 'library/phpmailer/SMTP.php';
 
 $bdDemo="mobiliar_dev_".date("Y");
 
+$urlRed = REDIRECT_ROUTE;
+if(empty($_POST["suma"]) || (!empty($_POST["suma"]) && md5($_POST["suma"])!=$_POST["sumaReal"])){
+	header("Location:".$urlRed."/prueba-gratis.php?error=1&nombre=".base64_encode($_POST["nombre"])."&email=".base64_encode($_POST["email"])."&celular=".base64_encode($_POST["celular"])."&plan=".base64_encode($_POST["plan"])."&option=".base64_encode($_POST["option"]));
+	exit();
+}
+
 $clave = rand(10000, 99999);
 mysqli_query($conexion, "INSERT INTO $bdDemo.usuarios(uss_usuario, uss_clave, uss_tipo, uss_nombre, uss_idioma, uss_email, uss_bloqueado, uss_fecha_registro, uss_solicitar_datos, uss_celular)VALUES('" . $_POST["email"] . "', SHA1('" . $clave . "'), 5, '" . $_POST["nombre"] . "', 1, '" . $_POST["email"] . "', 0, now(), 1, '" . $_POST["celular"] . "')");
 $idRegistro = mysqli_insert_id($conexion);
