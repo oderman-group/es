@@ -41,7 +41,7 @@ if(!empty($_GET)){
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <form action="prueba-gratis-guardar.php" class="form" method="post">
-                                <p class="text-center text-danger fs-12px mb-30">The field is required mark as *</p>
+                                <p class="text-center text-danger fs-12px mb-30">Son requeridos los campos marcados con *</p>
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
