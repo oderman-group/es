@@ -64,5 +64,5 @@ try {
 }
 echo '</div>';
 //FIN ENVÍO DE MENSAJE
-echo '<script type="text/javascript">window.location.href="https://developer.plataformasintia.com/app-sintia/main-app/index.php";</script>';
+echo '<script type="text/javascript">window.location.href="page-info.php?name='.base64_encode($_POST["nombre"]).'";</script>';
 exit();
