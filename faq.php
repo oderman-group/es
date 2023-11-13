@@ -67,7 +67,7 @@ include("includes/head.php");
                                         <div id="bd1" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordion1">
                                           <div class="accordion-body">
                                               <div class="text">
-                                                La instalación la hacemos directamente desde nuestras oficinas y dura 1 día hábil después de haber recibido el pago correspondiente.
+                                                La instalación la hacemos completamente online y solo toma 1 hora después de haber recibido el pago correspondiente.
                                               </div>
                                           </div>
                                         </div>
@@ -86,7 +86,7 @@ include("includes/head.php");
                                         <div id="bd4" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion2">
                                           <div class="accordion-body">
                                               <div class="text">
-                                                Claro que sí, se puede dividir el pago hasta en varias partidas durante el año. La institución debe compromenterse a una fecha de pago cada mes durante el año.
+                                                Claro que sí, se puede dividir el pago en varias partidas durante el año. La institución debe compromenterse a una fecha de pago cada mes durante el año.
                                               </div>
                                           </div>
                                         </div>
