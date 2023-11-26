@@ -23,9 +23,9 @@ include("includes/head.php");
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="info">
-                        <h1>Todo en una sola plataforma para
+                        <h1>Solo necesitas la plataforma
                             <span>
-                                Colegios
+                                SINTIA
                                 <img src="assets/img/header/head5_line.png" alt="" class="head-line">
                                 <img src="assets/img/header/head5_pen.png" alt="" class="head-pen">
                             </span>
@@ -109,13 +109,13 @@ include("includes/head.php");
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="content text-center">
-                            <h2>SINTIA marca la  
+                            <h2>Cuando usas la plataforma  
                                 <span>
-                                diferencia
+                                SINTIA
                                     <img src="assets/img/header/head5_line.png" alt="" class="head-line">
                                     <img src="assets/img/header/head5_pen.png" alt="" class="head-pen">
                                 </span>
-                                en cuanto a plataformas educativas.
+                                te das cuenta que no necesitas más plataformas
                             </h2>
                             <div class="butns mt-70">
                                 <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">

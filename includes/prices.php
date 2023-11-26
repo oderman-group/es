@@ -54,7 +54,7 @@ body {
                     <h2 class="mb-20"> Nuestros <span> Planes.</span> </h2>
                     
                     <div class="banner">
-                        ¡Plan Gratuito para Instituciones con menos de 100 Estudiantes!<br>
+                        ¡Plan Gratuito para Instituciones de hasta 80 Estudiantes!<br>
                         <p><a href="prueba-gratis.php?plan=0" class="cta-button">Inscríbete Ahora</a></p>
                     </div>
 
@@ -92,19 +92,19 @@ body {
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
-                                <h2 class="monthly_price secondary">$160K <span>/M</span></h2>
-                                <h2 class="yearly_price secondary">$1.7M <span>/A</span></h2>
+                                <h2 class="monthly_price secondary">$160.000 <span>/M</span></h2>
+                                <h2 class="yearly_price secondary">$1.728.000 <span>/A</span></h2>
                             </div>
                             <div class="price-headItem bg-gray5">
                                 <h6>Gold</h6>
-                                <h2 class="monthly_price primary">$220K <span>/M</span></h2>
-                                <h2 class="yearly_price primary">$2.3M <span>/A</span></h2>
+                                <h2 class="monthly_price primary">$220.000 <span>/M</span></h2>
+                                <h2 class="yearly_price primary">$2.376.000 <span>/A</span></h2>
                                 <div class="label">Mas Vendido</div>
                             </div>
                             <div class="price-headItem">
                                 <h6>Diamond</h6>
-                                <h2 class="monthly_price secondary">$350K <span>/M</span></h2>
-                                <h2 class="yearly_price secondary">$3.7M <span>/A</span></h2>
+                                <h2 class="monthly_price secondary">$350.000<span>/M</span></h2>
+                                <h2 class="yearly_price secondary">$3.780.000 <span>/A</span></h2>
                             </div>
                         </div>
 
@@ -338,9 +338,7 @@ body {
                                 </div>
                                 <div class="price-item"></div>
 
-                                <div class="price-item bg-gray5">
-                                    <i class="bi bi-check2"></i>
-                                </div>
+                                <div class="price-item bg-gray5"></div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
@@ -568,6 +566,17 @@ body {
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
                                     Horario de atención
+                                    <div class="pop-info">
+                                        <i class="fas fa-info-circle bttn-info"></i>
+                                        <div class="hidden_content">
+                                            <div class="title">Horario de atención</div>
+                                            <small class="small color-777 lh-5">
+                                                <b>Normal:</b> Lunes a viernes de 8 a 5 p.m, en orden de solicitudes.<br>
+                                                <b>Extendido:</b> Incluye domingos y festivos, incluso horario nocturno hasta las 8 pm entre semana.<br><br>
+                                                <b>El sabado es día de reposo para nuestra compañia, por tanto no ofrecemos servicio de atención</b>.
+                                            </small>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="price-item">
                                     Normal
