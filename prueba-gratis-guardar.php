@@ -14,8 +14,9 @@ if(empty($_POST["suma"]) || (!empty($_POST["suma"]) && md5($_POST["suma"])!=$_PO
 	exit();
 }
 
+$idUsr = strtotime("now");
 $clave = rand(10000, 99999);
-mysqli_query($conexion, "INSERT INTO ".BD_GENERAL.".usuarios(uss_usuario, uss_clave, uss_tipo, uss_nombre, uss_idioma, uss_email, uss_bloqueado, uss_fecha_registro, uss_solicitar_datos, uss_celular, institucion, year)VALUES('" . $_POST["email"] . "', SHA1('" . $clave . "'), 5, '" . $_POST["nombre"] . "', 1, '" . $_POST["email"] . "', 0, now(), 1, '" . $_POST["celular"] . "', ".COD_DEMO_INSTITUCION.", 2023)");
+mysqli_query($conexion, "INSERT INTO ".BD_GENERAL.".usuarios(uss_id, uss_usuario, uss_clave, uss_tipo, uss_nombre, uss_idioma, uss_email, uss_bloqueado, uss_fecha_registro, uss_solicitar_datos, uss_celular, institucion, year)VALUES('".$idUsr."','" . $_POST["email"] . "', SHA1('" . $clave . "'), 5, '" . $_POST["nombre"] . "', 1, '" . $_POST["email"] . "', 0, now(), 1, '" . $_POST["celular"] . "', ".COD_DEMO_INSTITUCION.", 2023)");
 $idRegistro = mysqli_insert_id($conexion);
 
 mysqli_query($conexion, "INSERT INTO demo(demo_fecha_ingreso, demo_usuario, demo_ip, demo_cantidad, demo_correo_enviado, demo_fecha_ultimo_correo, demo_nocorreos, demo_plan)VALUES(now(), '" . $idRegistro . "', '" . $_SERVER["REMOTE_ADDR"] . "', 0, 1, now(), 0, '" . $_POST["plan"] . "')");
