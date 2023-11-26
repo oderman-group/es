@@ -33,7 +33,7 @@ $contenidoMsj = '
 			
 	<p>
 		<h3 style="text-align: center;">
-		<a href="https://developer.plataformasintia.com/app-sintia/main-app/" target="_blank" style="color: #41c4c4; font-weight:bold;">ACCEDER A MI CUENTA DE DIRECTIVO AHORA</a>
+		<a href="https://demo.plataformasintia.com/app-sintia/main-app/index.php?inst='.COD_DEMO_INSTITUCION.'" target="_blank" style="color: #41c4c4; font-weight:bold;">ACCEDER A MI CUENTA DE DIRECTIVO AHORA</a>
 		</h3>
 	</p>
 			
