@@ -20,7 +20,7 @@
                 <div class="nav-side">
                     <div class="d-flex align-items-center">
                         <span class="nav-item">
-                            <a class="nav-link" href="https://developer.plataformasintia.com/app-sintia/main-app/" target="_blank">
+                            <a class="nav-link" href="https://demo.plataformasintia.com/app-sintia/main-app/" target="_blank">
                                 <i class="bi bi-person fs-5 me-2"></i>
                                 Ingresar al sistema
                             </a>
