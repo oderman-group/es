@@ -54,7 +54,7 @@ body {
                     <h2 class="mb-20"> Nuestros <span> Planes.</span> </h2>
                     
                     <div class="banner">
-                        ¡Plan Gratuito para Instituciones de hasta 80 Estudiantes!<br>
+                        ¡Tenemos una tarifa muy especial para Instituciones que manejen entre 1 y 50 Estudiantes!<br>
                         <p><a href="prueba-gratis.php?plan=0" class="cta-button">Inscríbete Ahora</a></p>
                     </div>
 
@@ -116,13 +116,13 @@ body {
                                     Directivos
                                 </div>
                                 <div class="price-item">
-                                    <span>10</span>
+                                    <span>1 a 10</span>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <span>15</span>
+                                    <span>11 a 15</span>
                                 </div>
                                 <div class="price-item">
-                                    <span>70</span>
+                                    <span>16 a 70</span>
                                 </div>
                             </div>
 
@@ -131,13 +131,13 @@ body {
                                     Docentes
                                 </div>
                                 <div class="price-item">
-                                    <span>15</span>
+                                    <span>1 a 15</span>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <span>50</span>
+                                    <span>16 a 50</span>
                                 </div>
                                 <div class="price-item">
-                                    <span>150</span>
+                                    <span>51 a 150</span>
                                 </div>
                             </div>
 
@@ -146,13 +146,13 @@ body {
                                     Estudiantes y acudientes
                                 </div>
                                 <div class="price-item">
-                                    <span>250</span>
+                                    <span>51 a 250</span>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <span>500</span>
+                                    <span>251 a 500</span>
                                 </div>
                                 <div class="price-item">
-                                    <span>3.000</span>
+                                    <span>501 a 3.000</span>
                                 </div>
                             </div>
 
@@ -170,13 +170,13 @@ body {
                                     </div>
                                 </div>
                                 <div class="price-item">
-                                    <span>50</span>
+                                    <span>1 a 50</span>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <span>100</span>
+                                    <span>51 a 100</span>
                                 </div>
                                 <div class="price-item">
-                                    <span>200</span>
+                                    <span>101 a 200</span>
                                 </div>
                             </div>
 
