@@ -2,7 +2,8 @@
 <section class="testimonials section-padding bg-gray5 style-5" data-scroll-index="4">
             <div class="container">
                 <div class="section-head text-center mb-60 style-5">
-                    <h2 class="mb-20"> Algunos <span> testimonios </span> </h2>
+                    <h2 class="mb-20"> Lo que Dicen Nuestros <span> Clientes </span> </h2>
+                    <p>Descubre cómo SINTIA ha transformado la experiencia educativa para instituciones de todo el mundo. Estas son algunas de las historias de éxito que nos inspiran</p>
                 </div>
             </div>
             <div class="content">

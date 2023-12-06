@@ -17,6 +17,7 @@ body {
     text-align: center;
     font-size: 1.5em;
     font-weight: bold;
+    padding: 20px;
 }
 
 .cta-button {
@@ -51,11 +52,11 @@ body {
 <section class="pricing section-padding style-5" data-scroll-index="3">
             <div class="container">
                 <div class="section-head text-center mb-60 style-5">
-                    <h2 class="mb-20"> Nuestros <span> Planes.</span> </h2>
+                    <h2 class="mb-20"> Elige el Plan Perfecto <span> para tus Necesidades.</span> </h2>
                     
                     <div class="banner">
-                        ¡Tenemos una tarifa muy especial para Instituciones que manejen entre 1 y 50 Estudiantes!<br>
-                        <p><a href="prueba-gratis.php?plan=0" class="cta-button">Inscríbete Ahora</a></p>
+                    ¡En SINTIA, celebramos y apoyamos a las instituciones más pequeñas! Descubre nuestra tarifa especial diseñada para atender las necesidades de instituciones con hasta 50 estudiantes. ¡Haz que la excelencia educativa sea accesible para todos!<br>
+                        <p><a href="https://api.whatsapp.com/send?phone=<?=$datos['dtc_whatsapp'];?>&text=Hola, estoy estoy interesado en el plan especial de la plataforma SINTIA..." target="_blank" class="cta-button">CONTÁCTANOS</a></p>
                     </div>
 
                     

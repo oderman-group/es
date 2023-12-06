@@ -23,7 +23,7 @@ include("includes/head.php");
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="info">
-                        <h1>Solo necesitas la plataforma
+                        <h1>Simplifica, innova, ¡Eleva el aprendizaje! Transforma la educación con
                             <span>
                                 SINTIA
                                 <img src="assets/img/header/head5_line.png" alt="" class="head-line">
@@ -62,7 +62,7 @@ include("includes/head.php");
         <section class="community pt-40 style-5">
             <div class="container">
                 <div class="section-head text-center mb-40 style-5">
-                    <h2 class="mb-20"> Principales <span> Razones para usar sintia </span> </h2>
+                    <h2 class="mb-20"> Descubre por qué <span> SINTIA es la elección inteligente</span> </h2>
 
                 </div>
                 <div class="content rounded-pill">
@@ -71,7 +71,7 @@ include("includes/head.php");
                             <img src="assets/img/icons/recurso_13.png" alt="" width="80">
                         </div>
                         <div class="inf">
-                            <h5>Necesitas una plataforma que te ahorre tiempo.</h5>
+                            <h5>Ahorra Tiempo, Potencia Tu Día.</h5>
                         </div>
                     </div>
                     <div class="commun-card">
@@ -79,7 +79,7 @@ include("includes/head.php");
                             <img src="assets/img/icons/recurso_14.png" alt="" width="80">
                         </div>
                         <div class="inf">
-                            <h5>Tu información estara segura y disponible cuando la requieras.</h5>
+                            <h5>Tu Información Segura, Accesible y Confiable.</h5>
                         </div>
                     </div>
                     <div class="commun-card">
@@ -87,7 +87,7 @@ include("includes/head.php");
                             <img src="assets/img/icons/recurso_15.png" alt="" width="80">
                         </div>
                         <div class="inf">
-                            <h5>Estarás 100% satisfecho o te devolvemos tu dinero.</h5>
+                            <h5>Satisfacción Garantizada o Devolvemos Tu Inversión.</h5>
                         </div>
                     </div>
                 </div>
@@ -109,13 +109,13 @@ include("includes/head.php");
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="content text-center">
-                            <h2>Cuando usas la plataforma  
+                            <h2>Descubre el Poder de 
                                 <span>
                                 SINTIA
                                     <img src="assets/img/header/head5_line.png" alt="" class="head-line">
                                     <img src="assets/img/header/head5_pen.png" alt="" class="head-pen">
                                 </span>
-                                te das cuenta que no necesitas más plataformas
+                                Todo lo que Necesitas en una Plataforma
                             </h2>
                             <div class="butns mt-70">
                                 <a href="prueba-gratis.php" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">

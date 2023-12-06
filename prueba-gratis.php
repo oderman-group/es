@@ -30,8 +30,8 @@ if(!empty($_GET)){
         <section class="contact section-padding pt-50 style-6">
             <div class="container">
                 <div class="section-head text-center mb-100 style-5">
-                    <h2 class="mb-20"> Prueba <span> Gratis </span> </h2>
-                    <p>Tendrás 5 días de prueba gratis para explorar la plataforma</p>
+                    <h2 class="mb-20"> Descubre SINTIA <span> 15 Días de Exploración Gratuita </span> </h2>
+                    <p>¡Bienvenido a SINTIA! Completa el formulario de interés y obtén 15 días de prueba gratis para explorar todas las funcionalidades que transformarán tu experiencia educativa. ¡Aprovecha esta oportunidad para descubrir el potencial ilimitado de SINTIA!</p>
                 </div>
                 <div class="text-center mb-100">
                     <h2 class="ltspc-20 text-uppercase fs-1 lh-1 mb-50 mt-30 secondary"><?=$datos['dtc_whatsapp'];?></h2>
