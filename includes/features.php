@@ -4,10 +4,9 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="section-head text-center mb-60 style-5">
-                            <h2 class="mb-20"> Grandiosas <span> Carácteristicas </span> </h2>
-                            <!-- <p>Iteck Dashboard is a powerhouse when it comes to the feature list. This ensures you have
-                                every functionality you need to build, run, and expand your marketplace
-                            </p> -->
+                            <h2 class="mb-20"> Explora un Mundo de Innovación <span> Educativa </span> </h2>
+                            <p>¡Desata tu potencial con SINTIA y descubre cómo nuestras características excepcionales transformarán tu experiencia educativa! ¡Bienvenido a la revolución del aprendizaje!
+                            </p>
                         </div>
                     </div>
                 </div>

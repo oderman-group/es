@@ -8,9 +8,7 @@
                             ¿Sabías esto?
                         </div>
                         <small class="text">
-                        SINTIA es la Plataforma Ganadora del undécimo concurso
-                        de Capital Semilla en Medellín por su
-                        Innovación y Gran Aporte a la Educación.
+                        SINTIA  es ganadora del undécimo concurso de Capital Semilla en Medellín, SINTIA destaca por su innovación y contribución excepcional a la educación. Estamos orgullosos de ser reconocidos como líderes en el impulso de la excelencia educativa. ¡Únete a nosotros en esta emocionante travesía hacia el aprendizaje transformador!
                         </small>
                         <div class="socail-icons">
                             <a href="https://twitter.com/platsintia"
