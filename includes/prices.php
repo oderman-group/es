@@ -79,7 +79,7 @@ body {
                             <input class="form-check-input" type="radio" name="inlineRadioOptions" id="yearly-input"
                                 value="option2" checked>
                             <label class="form-check-label" for="yearly-input">
-                                Pago Anual
+                                Pago Anual (De contado)
                                 <small class="alert-danger text-danger rounded-pill ms-1">-10%</small>
                             </label>
                         </div>
@@ -93,19 +93,19 @@ body {
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
-                                <h2 class="monthly_price secondary">$160.000 <span>/M</span></h2>
-                                <h2 class="yearly_price secondary">$1.728.000 <span>/A</span></h2>
-                            </div>
-                            <div class="price-headItem bg-gray5">
-                                <h6>Gold</h6>
-                                <h2 class="monthly_price primary">$220.000 <span>/M</span></h2>
-                                <h2 class="yearly_price primary">$2.376.000 <span>/A</span></h2>
-                                <div class="label">Mas Vendido</div>
+                                <h2 class="monthly_price secondary">$390.000 <span>/M</span></h2>
+                                <h2 class="yearly_price secondary">$351.000 <span>/M</span></h2>
                             </div>
                             <div class="price-headItem">
+                                <h6>Gold</h6>
+                                <h2 class="monthly_price primary">$450.000 <span>/M</span></h2>
+                                <h2 class="yearly_price primary">$405.000 <span>/M</span></h2>
+                            </div>
+                            <div class="price-headItem bg-gray5">
                                 <h6>Diamond</h6>
-                                <h2 class="monthly_price secondary">$350.000<span>/M</span></h2>
-                                <h2 class="yearly_price secondary">$3.780.000 <span>/A</span></h2>
+                                <h2 class="monthly_price secondary">$490.000<span>/M</span></h2>
+                                <h2 class="yearly_price secondary">$441.000 <span>/M</span></h2>
+                                <div class="label">La mejor opción</div>
                             </div>
                         </div>
 
@@ -119,10 +119,10 @@ body {
                                 <div class="price-item">
                                     <span>1 a 10</span>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <span>11 a 15</span>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <span>16 a 70</span>
                                 </div>
                             </div>
@@ -134,10 +134,10 @@ body {
                                 <div class="price-item">
                                     <span>1 a 15</span>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <span>16 a 50</span>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <span>51 a 150</span>
                                 </div>
                             </div>
@@ -149,10 +149,10 @@ body {
                                 <div class="price-item">
                                     <span>51 a 250</span>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <span>251 a 500</span>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <span>501 a 3.000</span>
                                 </div>
                             </div>
@@ -171,12 +171,11 @@ body {
                                     </div>
                                 </div>
                                 <div class="price-item">
-                                    <span>1 a 50</span>
-                                </div>
-                                <div class="price-item bg-gray5">
-                                    <span>51 a 100</span>
                                 </div>
                                 <div class="price-item">
+                                    <span>Hasta 100</span>
+                                </div>
+                                <div class="price-item bg-gray5">
                                     <span>101 a 200</span>
                                 </div>
                             </div>
@@ -199,10 +198,10 @@ body {
                                 <div class="price-item">
                                 <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -223,10 +222,10 @@ body {
                                 <div class="price-item">
                                 <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -248,10 +247,10 @@ body {
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -263,10 +262,10 @@ body {
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -278,10 +277,10 @@ body {
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -291,12 +290,11 @@ body {
                                     Carpetas Compartidas
                                 </div>
                                 <div class="price-item">
+                                </div>
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -316,10 +314,10 @@ body {
                                 </div>
                                 <div class="price-item">
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -339,8 +337,8 @@ body {
                                 </div>
                                 <div class="price-item"></div>
 
-                                <div class="price-item bg-gray5"></div>
-                                <div class="price-item">
+                                <div class="price-item"></div>
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -361,9 +359,9 @@ body {
                                 </div>
                                 <div class="price-item"></div>
                                 
-                                <div class="price-item bg-gray5"></div>
+                                <div class="price-item"></div>
 
-                                <div class="price-item">
+                                <div class="price-item  bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -383,9 +381,9 @@ body {
                                 </div>
                                 <div class="price-item"></div>
                                 
-                                <div class="price-item bg-gray5"></div>
+                                <div class="price-item"></div>
 
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -405,9 +403,9 @@ body {
                                 </div>
                                 <div class="price-item"></div>
                                 
-                                <div class="price-item bg-gray5"></div>
+                                <div class="price-item"></div>
 
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -427,9 +425,9 @@ body {
                                 </div>
                                 <div class="price-item"></div>
                                 
-                                <div class="price-item bg-gray5"></div>
+                                <div class="price-item"></div>
 
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -449,9 +447,31 @@ body {
                                 </div>
                                 <div class="price-item"></div>
                                 
-                                <div class="price-item bg-gray5"></div>
+                                <div class="price-item"></div>
 
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Inteligencia Artificial
+                                    <div class="pop-info">
+                                        <i class="fas fa-info-circle bttn-info"></i>
+                                        <div class="hidden_content">
+                                            <div class="title">Inteligencia Artificial</div>
+                                            <small class="small color-777 lh-5">
+                                                Potencia tu educación con la magia de la inteligencia artificial en Sintia.
+                                            </small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="price-item"></div>
+                                
+                                <div class="price-item"></div>
+
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -465,10 +485,10 @@ body {
                                 <div class="price-item">
                                     2 SESIONES (MAX. 1 HORA)
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     4 SESIONES (MAX. 1 HORA)
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     6 SESIONES (MAX. 1 HORA)
                                 </div>
                             </div>
@@ -480,10 +500,10 @@ body {
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -495,10 +515,10 @@ body {
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -510,10 +530,10 @@ body {
                                 <div class="price-item">
                                     Siempre
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     Siempre
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     Siempre
                                 </div>
                             </div>
@@ -525,10 +545,10 @@ body {
                                 <div class="price-item">
                                     5 GB
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     10 GB
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     25 GB
                                 </div>
                             </div>
@@ -537,15 +557,30 @@ body {
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
+                                    Soporte técnico y asesoría
+                                </div>
+                                <div class="price-item">
+                                    Solo errores de la plataforma
+                                </div>
+                                <div class="price-item">
+                                    Solo errores de la plataforma
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    Prioritario
+                                </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
                                     Soporte por correo
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -556,10 +591,23 @@ body {
                                 </div>
                                 <div class="price-item">
                                 </div>
+                                <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
                                 <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
+                            </div>
+
+                            <div class="price-bodyItems">
+                                <div class="price-bodyTitle">
+                                    Soporte por llamada
+                                </div>
                                 <div class="price-item">
+                                </div>
+                                <div class="price-item">
+                                </div>
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -582,10 +630,10 @@ body {
                                 <div class="price-item">
                                     Normal
                                 </div>
-                                <div class="price-item bg-gray5">
+                                <div class="price-item">
                                     Normal
                                 </div>
-                                <div class="price-item">
+                                <div class="price-item bg-gray5">
                                     Extendido
                                 </div>
                             </div>
@@ -597,12 +645,12 @@ body {
                                     Respaldo de datos
                                 </div>
                                 <div class="price-item">
-                                    Semanal
-                                </div>
-                                <div class="price-item bg-gray5">
                                     Diario
                                 </div>
                                 <div class="price-item">
+                                    Diario
+                                </div>
+                                <div class="price-item bg-gray5">
                                     Diario
                                 </div>
                             </div>
@@ -612,36 +660,36 @@ body {
                                     Importación inicial de la información
                                 </div>
                                 <div class="price-item">
-                                    $100.000 COP.
-                                </div>
-                                <div class="price-item bg-gray5">
-                                    <i class="bi bi-check2"></i>
+                                    $500.000 COP.
                                 </div>
                                 <div class="price-item">
+                                    <i class="bi bi-check2"></i>
+                                </div>
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
 
                             <div class="price-bodyItems">
                                 <div class="price-bodyTitle">
-                                    Personalización boletín
+                                    Personalización de documentos
                                     <div class="pop-info">
                                         <i class="fas fa-info-circle bttn-info"></i>
                                         <div class="hidden_content">
-                                            <div class="title">Personalización boletín</div>
+                                            <div class="title">Personalización de documentos</div>
                                             <small class="small color-777 lh-5">
-                                                La plataforma cuenta con varios formas de boletín, sin embargo la institución puede solicitar la personalización del suyo. 
+                                                La plataforma cuenta con varios formatos de documentos como boletines, certificados, libros, sin embargo tu institución puede solicitar la personalización de estos. 
                                             </small>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="price-item">
-                                    $100.000 COP.
-                                </div>
-                                <div class="price-item bg-gray5">
-                                    <i class="bi bi-check2"></i>
+                                    $500.000 COP.
                                 </div>
                                 <div class="price-item">
+                                    $500.000 COP.
+                                </div>
+                                <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
                             </div>
@@ -651,13 +699,13 @@ body {
                                     Desarrollos adicionales
                                 </div>
                                 <div class="price-item">
-                                    Cotización
-                                </div>
-                                <div class="price-item bg-gray5">
-                                    Cotización
+                                    Requiere cotización
                                 </div>
                                 <div class="price-item">
-                                    Cotización
+                                    Requiere cotización
+                                </div>
+                                <div class="price-item bg-gray5">
+                                    Requiere cotización
                                 </div>
                             </div>
 
@@ -671,12 +719,12 @@ body {
                                     <span> Empezar ahora </span>
                                 </a>
                             </div>
-                            <div class="price-footItem bg-gray5">
+                            <div class="price-footItem">
                                 <a href="prueba-gratis.php?plan=2" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
                                     <span> Empezar ahora </span>
                                 </a>
                             </div>
-                            <div class="price-footItem">
+                            <div class="price-footItem bg-gray5">
                                 <a href="prueba-gratis.php?plan=3" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
                                     <span> Empezar ahora </span>
                                 </a>
