@@ -6,9 +6,9 @@
                     <small class="fs-10px">Especial</small>
                 </span>
                 <img src="assets/img/icons/nav_icon/imoj_heart.png" alt="" class="icon-15">
-                <span class="fs-10px op-6">Obtén </span>
+                <span class="fs-10px op-6">Reclama un </span>
                 <small class="op-10 fs-10px">10% de Descuento adicional</small>
-                <span class="fs-10px op-6">por comprar antes del 31 de Diciembre</span>
+                <span class="fs-10px op-6">por comprar antes del 31 de Marzo</span>
                 <a href="prueba-gratis.php" class="fs-10px text-decoration-underline ms-2 prueba-hover">Prueba gratis</a>
             </div>
         </div>
