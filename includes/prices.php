@@ -93,18 +93,18 @@ body {
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
-                                <h2 class="monthly_price secondary">$390.000 <span>/M</span></h2>
-                                <h2 class="yearly_price secondary">$351.000 <span>/M</span></h2>
+                                <h2 class="monthly_price secondary">$390.000 <span>/MES</span></h2>
+                                <h2 class="yearly_price secondary">$351.000 <span>/MES</span></h2>
                             </div>
                             <div class="price-headItem">
                                 <h6>Gold</h6>
-                                <h2 class="monthly_price primary">$450.000 <span>/M</span></h2>
-                                <h2 class="yearly_price primary">$405.000 <span>/M</span></h2>
+                                <h2 class="monthly_price primary">$450.000 <span>/MES</span></h2>
+                                <h2 class="yearly_price primary">$405.000 <span>/MES</span></h2>
                             </div>
                             <div class="price-headItem bg-gray5">
                                 <h6>Diamond</h6>
-                                <h2 class="monthly_price secondary">$490.000<span>/M</span></h2>
-                                <h2 class="yearly_price secondary">$441.000 <span>/M</span></h2>
+                                <h2 class="monthly_price secondary">$490.000<span>/MES</span></h2>
+                                <h2 class="yearly_price secondary">$441.000 <span>/MES</span></h2>
                                 <div class="label">La mejor opción</div>
                             </div>
                         </div>
@@ -660,7 +660,7 @@ body {
                                     Importación inicial de la información
                                 </div>
                                 <div class="price-item">
-                                    $500.000 COP.
+                                    $490.000 COP.
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
@@ -684,10 +684,10 @@ body {
                                     </div>
                                 </div>
                                 <div class="price-item">
-                                    $500.000 COP.
+                                    $290.000 COP.
                                 </div>
                                 <div class="price-item">
-                                    $500.000 COP.
+                                    $290.000 COP.
                                 </div>
                                 <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
