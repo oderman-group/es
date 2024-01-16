@@ -245,7 +245,6 @@ body {
                                     </div>
                                 </div>
                                 <div class="price-item">
-                                    <i class="bi bi-check2"></i>
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
@@ -260,7 +259,6 @@ body {
                                     Tareas/Actividades para la casa
                                 </div>
                                 <div class="price-item">
-                                    <i class="bi bi-check2"></i>
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
@@ -275,7 +273,6 @@ body {
                                     Foros de discusión
                                 </div>
                                 <div class="price-item">
-                                    <i class="bi bi-check2"></i>
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
