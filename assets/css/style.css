@@ -4589,6 +4589,10 @@ header.style-15 {
 .banner {
 max-width: 1200px !important;
 width: 100% !important;
+height: 100% !important;
+gap: 40px;
+text-align: left !important;
+font-size: 20px!important;
 }
 
 .services.style-1 {
@@ -14745,11 +14749,25 @@ footer.style-15 {
 /* ======== */
 /* ======= */
 
+@media(max-width: 991px){
+
+	.banner{
+		font-size: 14px !important;
+	}
+
+}
+
 @media(max-width: 767px){
 	header.style-5 .info h1{
 		
-	font-size: 35px;
+	font-size: 35px ;
 		
+	}
+
+	.banner{
+		text-align: center !important;
+		gap: 20px !important;
+		    flex-direction: column;
 	}
 	
 }
