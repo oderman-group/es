@@ -62,7 +62,7 @@ body {
                     
                 </div>
 
-                <div class="alert alert-primary" role="alert" style="background-color: #41c3c46e; color:#6017dc; width:1200px;">
+                <div class="alert alert-primary" role="alert" style="background-color: #41c3c46e; color:#6017dc; max-width: 1200px; width: 100%;">
                         Si su institución requiere un plan personalizado, haga click en el siguiente número y hablemos por WhatsApp: <a href="https://api.whatsapp.com/send?phone=<?=$datos['dtc_whatsapp'];?>&text=Hola, estoy estoy interesado en vivir la experiencia con la plataforma SINTIA..." target="_blank" style="text-decoration:underline  !important; font-weight:bold;"><?=$datos['dtc_whatsapp'];?></a> o escibenos al correo <b><?=$datos['dtc_email_ventas'];?></b>
                     </div>
                 
