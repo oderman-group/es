@@ -6,7 +6,6 @@ include("includes/head.php");
 
 </head>
 <body>
-    
     <style>
         body{
             padding: 0;
