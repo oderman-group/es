@@ -19,6 +19,9 @@ include("includes/head.php");
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    gap: 25px;
+    padding: 0 40px;
 
         }
         .btn_gracias{
