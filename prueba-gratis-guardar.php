@@ -99,5 +99,5 @@ try {
 }
 echo '</div>';
 //FIN ENVÍO DE MENSAJE
-echo '<script type="text/javascript">window.location.href="page-info.php?name='.base64_encode($_POST["nombre"]).'";</script>';
+echo '<script type="text/javascript">window.location.href="gracias.php?name='.base64_encode($_POST["nombre"]).'";</script>';
 exit();
