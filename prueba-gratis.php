@@ -5,7 +5,7 @@ $datosPruebaGratis = [
 	'nombre'     => '',
 	'celular'      => ''
 ];
-if(!empty($_GET)){
+if(!empty($_GET['nombre']) && !empty($_GET['celular'])){
 	$datosPruebaGratis['nombre'] = base64_decode($_GET['nombre']);
 	$datosPruebaGratis['celular'] = base64_decode($_GET['celular']);
 }
@@ -20,7 +20,7 @@ if(!empty($_GET)){
     </div> -->
     <!-- ====== end loading page ====== -->
 
-    <?php include("includes/top-navbar.php");?>
+    <?php //include("includes/top-navbar.php");?>
 
     <?php include("includes/navbar.php");?>
 
@@ -51,7 +51,7 @@ if(!empty($_GET)){
                                     <?php 
                                         $value="";
                                         if(!empty($_REQUEST['email'])){
-                                            $value=base64_decode($_REQUEST['email']);
+                                            $value=$_REQUEST['email'];
                                         }
                                     ?>
                                     <div class="col-lg-6">
@@ -64,25 +64,15 @@ if(!empty($_GET)){
                                             <input type="text" name="celular" class="form-control"  placeholder="Tu celular" value="<?=$datosPruebaGratis['celular'];?>">
                                         </div>
                                     </div>
+                                    
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <select name="plan" class="form-select">
-                                                <option value="" >Qué plan deseas adquirir?</option>
-                                                <?php
-                                                $consultaPlan = mysqli_query($conexion, "SELECT * FROM planes_sintia");
-                                                while($plan = mysqli_fetch_array($consultaPlan, MYSQLI_BOTH)){
-                                                ?>
-                                                <option value="<?=$plan['plns_id'];?>" <?php if(!empty($_GET['plan']) AND $plan['plns_id']==base64_decode($_GET['plan'])){echo "selected";}?>><?=$plan['plns_nombre']?></option>
-                                                <?php }?>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-group mb-20">
                                             <select name="option" class="form-select">
-                                                <option value="how can we help" selected>Para qué requieres la plataforma?</option>
+                                                <option value="how can we help" selected>Tu institución es un...?</option>
                                                 <option value="1" <?php if(!empty($_GET['option']) AND base64_decode($_GET['option'])==1){echo "selected";}?>>Colegio</option>
                                                 <option value="2" <?php if(!empty($_GET['option']) AND base64_decode($_GET['option'])==2){echo "selected";}?>>Universidad</option>
+                                                <option value="3" <?php if(!empty($_GET['option']) AND base64_decode($_GET['option'])==3){echo "selected";}?>>Instituto</option>
+                                                <option value="4" <?php if(!empty($_GET['option']) AND base64_decode($_GET['option'])==4){echo "selected";}?>>Jardin infantil</option>
                                             </select>
                                         </div>
                                     </div>

@@ -13,7 +13,7 @@ include("includes/head.php");
     </div> -->
     <!-- ====== end loading page ====== -->
 
-    <?php include("includes/top-navbar.php");?>
+    <?php //include("includes/top-navbar.php");?>
 
     <?php include("includes/navbar.php");?>
 
@@ -41,24 +41,18 @@ include("includes/head.php");
                                 </a>
                             </div>
                         </form>
-                        <div class="main-img">
-                            <img src="assets/img/header/recurso_2_8.png" alt="" class="page-img">
-                            <!--<img src="assets/img/header/recurso_5_8.png" alt="" class="linechart-img">-->
-                            <img src="assets/img/header/recurso_6_8.png" alt="" class="piechart-img">
-                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <img src="assets/img/header/recurso_3_8.png" alt="" class="handl-img">
-        <img src="assets/img/header/recurso_1_8.png" alt="" class="handr-img">
+        
     </header>
     <!-- ====== end header ====== -->
 
     <!--Contents-->
     <main>
 
-        <!-- ====== start community ====== -->
+        <!-- ====== start community ====== --
         <section class="community pt-40 style-5">
             <div class="container">
                 <div class="section-head text-center mb-40 style-5">
@@ -95,11 +89,11 @@ include("includes/head.php");
         </section>
         <!-- ====== end community ====== -->
 
-        <?php include("includes/clients.php");?>
-
         <?php include("includes/features.php");?>
 
         <?php include("includes/prices.php");?>
+
+        <?php include("includes/clients.php");?>
 
         <?php include("includes/testimonials.php");?>
 
