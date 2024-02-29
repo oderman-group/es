@@ -93,18 +93,18 @@ body {
                             </div>
                             <div class="price-headItem">
                                 <h6>Silver</h6>
-                                <h2 class="monthly_price secondary">$390.000 <span>/MES</span></h2>
-                                <h2 class="yearly_price secondary">$351.000 <span>/MES</span></h2>
+                                <h2 class="monthly_price secondary">$110.000 <span>/MES</span></h2>
+                                <h2 class="yearly_price secondary">$99.000 <span>/MES</span></h2>
                             </div>
                             <div class="price-headItem">
                                 <h6>Gold</h6>
-                                <h2 class="monthly_price primary">$450.000 <span>/MES</span></h2>
-                                <h2 class="yearly_price primary">$405.000 <span>/MES</span></h2>
+                                <h2 class="monthly_price primary">$190.000 <span>/MES</span></h2>
+                                <h2 class="yearly_price primary">$171.000 <span>/MES</span></h2>
                             </div>
                             <div class="price-headItem bg-gray5">
                                 <h6>Diamond</h6>
-                                <h2 class="monthly_price secondary">$490.000<span>/MES</span></h2>
-                                <h2 class="yearly_price secondary">$441.000 <span>/MES</span></h2>
+                                <h2 class="monthly_price secondary">$250.000<span>/MES</span></h2>
+                                <h2 class="yearly_price secondary">$225.000 <span>/MES</span></h2>
                                 <div class="label">La mejor opción</div>
                             </div>
                         </div>
@@ -117,13 +117,13 @@ body {
                                     Directivos
                                 </div>
                                 <div class="price-item">
-                                    <span>1 a 10</span>
+                                    <span>10</span>
                                 </div>
                                 <div class="price-item">
-                                    <span>11 a 15</span>
+                                    <span>50</span>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <span>16 a 70</span>
+                                    <span>ilimitados</span>
                                 </div>
                             </div>
 
@@ -132,13 +132,13 @@ body {
                                     Docentes
                                 </div>
                                 <div class="price-item">
-                                    <span>1 a 15</span>
+                                    <span>20</span>
                                 </div>
                                 <div class="price-item">
-                                    <span>16 a 50</span>
+                                    <span>100</span>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <span>51 a 150</span>
+                                    <span>ilimitados</span>
                                 </div>
                             </div>
 
@@ -147,36 +147,13 @@ body {
                                     Estudiantes y acudientes
                                 </div>
                                 <div class="price-item">
-                                    <span>51 a 250</span>
+                                    <span>500</span>
                                 </div>
                                 <div class="price-item">
-                                    <span>251 a 500</span>
+                                    <span>1.000</span>
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    <span>501 a 3.000</span>
-                                </div>
-                            </div>
-
-                            <div class="price-bodyItems">
-                                <div class="price-bodyTitle">
-                                    Otros usuarios
-                                    <div class="pop-info">
-                                        <i class="fas fa-info-circle bttn-info"></i>
-                                        <div class="hidden_content">
-                                            <div class="title">Otros usuarios</div>
-                                            <small class="small color-777 lh-5">
-                                                Puedes crear otros usaurios que puedes usar como clientes, proveedores y más.
-                                            </small>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="price-item">
-                                </div>
-                                <div class="price-item">
-                                    <span>Hasta 100</span>
-                                </div>
-                                <div class="price-item bg-gray5">
-                                    <span>101 a 200</span>
+                                    <span>3.000</span>
                                 </div>
                             </div>
 
@@ -245,6 +222,7 @@ body {
                                     </div>
                                 </div>
                                 <div class="price-item">
+                                    <i class="bi bi-check2"></i>
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
@@ -314,27 +292,6 @@ body {
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
                                 </div>
-                                <div class="price-item bg-gray5">
-                                    <i class="bi bi-check2"></i>
-                                </div>
-                            </div>
-
-                            <div class="price-bodyItems">
-                                <div class="price-bodyTitle">
-                                    Módulo Financiero
-                                    <div class="pop-info">
-                                        <i class="fas fa-info-circle bttn-info"></i>
-                                        <div class="hidden_content">
-                                            <div class="title">Módulo financiero</div>
-                                            <small class="small color-777 lh-5">
-                                            Cobros, ingresos, egresos, cotizaciones, items de inventarios, facturas recurrentes, estados de cuenta...
-                                            </small>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="price-item"></div>
-
-                                <div class="price-item"></div>
                                 <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
                                 </div>
@@ -483,10 +440,10 @@ body {
                                     2 SESIONES (MAX. 1 HORA)
                                 </div>
                                 <div class="price-item">
-                                    4 SESIONES (MAX. 1 HORA)
+                                    2 SESIONES (MAX. 1 HORA)
                                 </div>
                                 <div class="price-item bg-gray5">
-                                    6 SESIONES (MAX. 1 HORA)
+                                    3 SESIONES (MAX. 1 HORA)
                                 </div>
                             </div>
 
@@ -589,7 +546,6 @@ body {
                                 <div class="price-item">
                                 </div>
                                 <div class="price-item">
-                                    <i class="bi bi-check2"></i>
                                 </div>
                                 <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>
@@ -657,7 +613,7 @@ body {
                                     Importación inicial de la información
                                 </div>
                                 <div class="price-item">
-                                    $490.000 COP.
+                                    $290.000 COP.
                                 </div>
                                 <div class="price-item">
                                     <i class="bi bi-check2"></i>
@@ -681,10 +637,10 @@ body {
                                     </div>
                                 </div>
                                 <div class="price-item">
-                                    $290.000 COP.
+                                    $190.000 COP.
                                 </div>
                                 <div class="price-item">
-                                    $290.000 COP.
+                                    $190.000 COP.
                                 </div>
                                 <div class="price-item bg-gray5">
                                     <i class="bi bi-check2"></i>

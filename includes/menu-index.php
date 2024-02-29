@@ -6,12 +6,6 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#0" data-scroll-nav="1">
-                            Clientes
-                        </a>
-                    </li>
-
-                    <li class="nav-item">
                         <a class="nav-link" href="#0" data-scroll-nav="2">
                             Caracteristicas
                         </a>
@@ -20,6 +14,12 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#0" data-scroll-nav="3">
                             Precio
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#0" data-scroll-nav="1">
+                            Clientes
                         </a>
                     </li>
 
