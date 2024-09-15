@@ -1,3 +1,4 @@
 config/conexion-datos.php
+config/conexion-datos-production.php
 config/sensitive.php
 .vscode

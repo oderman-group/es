@@ -38,7 +38,7 @@ include("includes/head.php");
         <h2>MUCHAS GRACIAS        </h2>
         <h1>NOS PONDREMOS EN CONTACTO
             CONTIGO PRONTO.</h1>
-            <a class="btn_gracias" href="/">Regresar al inicio</a>
+            <a class="btn_gracias" href="index.php">Regresar al inicio</a>
     </section>
     
 
