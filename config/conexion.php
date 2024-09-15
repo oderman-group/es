@@ -1,5 +1,4 @@
 <?php 
-include("conexion-datos.php");
 include("sensitive.php");
 $conexion = mysqli_connect($servidorConexion, $usuarioConexion, $claveConexion, $baseDatosServicios);
 
