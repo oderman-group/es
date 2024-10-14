@@ -8,6 +8,8 @@ require 'library/phpmailer/Exception.php';
 require 'library/phpmailer/PHPMailer.php';
 require 'library/phpmailer/SMTP.php';
 
+mysqli_query($conexion, "INSERT INTO demo(demo_ip, demo_nombre, demo_cargo, demo_telefono, demo_email, demo_institucion, demo_apellido, demo_comentario, demo_referencia)VALUES('" . $_SERVER["REMOTE_ADDR"] . "', '".$_POST['nombre']."', '".$_POST['cargo']."', '".$_POST['telefono']."', '".$_POST['email']."', '".$_POST['institucion']."', '".$_POST['apellido']."', '".$_POST['comentarios']."', '".$_POST['referencia']."')");
+
 //INICIO ENVÍO DE MENSAJE
 $asunto       = $_POST["nombre"] . ', Solicitud de DEMO';
 $tituloMsj    = "¡Solicitud de DEMO de la Plataforma SINTIA!";
