@@ -17,7 +17,8 @@ $bgTitulo     = "#6017dc";
 $contenidoMsj = '
     <p>
         Hola <b>' . strtoupper($_POST["nombre"]) . '</b>, Gracias por mostrar interés en la Plataforma SINTIA.<br>
-        Mi nombre es Jhon, y te estaré contactando en un momento para organizar el demo.<br>
+        Mi nombre es Jhon, y te estaré contactando en un momento para organizar el demo.<br><br>
+
         A contiuación dejo tus datos recibidos a travez del formulario:<br>
     </p>
 

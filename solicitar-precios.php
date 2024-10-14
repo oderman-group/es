@@ -16,7 +16,8 @@ $tituloMsj    = "¡Solicitud de precios!";
 $bgTitulo     = "#6017dc";
 $contenidoMsj = '
     <p>
-        Hola <b>' . strtoupper($_POST["nombre"]) . '</b>, de acuerdo a tu solicitud, te enviamos el link de la presentación donde encontrarás detalles de las caracteristicas de la plataforma SITNIA y también sus planes y precios.<br>
+        Hola <b>' . strtoupper($_POST["nombre"]) . '</b>, de acuerdo a tu solicitud, te enviamos el link de la presentación donde encontrarás detalles de las caracteristicas de la plataforma SITNIA y también sus planes y precios.<br><br>
+
         Recuerda que la plataforma SINTIA cuenta con un plan gratuito y está disponible para todos los colegios que desean utilizarla.<br>
     </p>
     <p>
