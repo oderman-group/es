@@ -11,12 +11,19 @@ require 'library/phpmailer/SMTP.php';
 mysqli_query($conexion, "INSERT INTO demo(demo_ip, demo_nombre, demo_cargo, demo_telefono, demo_email, demo_institucion)VALUES('" . $_SERVER["REMOTE_ADDR"] . "', '".$_POST['nombre']."', '".$_POST['cargo']."', '".$_POST['telefono']."', '".$_POST['email']."', '".$_POST['institucion']."')");
 
 //INICIO ENVÍO DE MENSAJE
-$asunto       = $_POST["nombre"] . ', Solicitud de precios';
-$tituloMsj    = "¡Solicitud de precios'!";
+$asunto       =  'Solicitud de precios para '.$_POST['institucion'];
+$tituloMsj    = "¡Solicitud de precios!";
 $bgTitulo     = "#6017dc";
 $contenidoMsj = '
     <p>
-        Hola <b>' . strtoupper($_POST["nombre"]) . '</b>, de acuerdo a tu solicitud, adjunto encotrarás los precios solicitados.<br>
+        Hola <b>' . strtoupper($_POST["nombre"]) . '</b>, de acuerdo a tu solicitud, te enviamos el link de la presentación donde encontrarás detalles de las caracteristicas de la plataforma SITNIA y también sus planes y precios.<br>
+        Recuerda que la plataforma SINTIA cuenta con un plan gratuito y está disponible para todos los colegios que desean utilizarla.<br>
+    </p>
+    <p>
+        <a href="https://docs.google.com/presentation/d/1zfs6mqed7aDGFhmAomEWWGGaoCLPNkv-_b0EskcCLqE/edit?usp=sharing" class="button">SINTIA - Planes y precios</a>
+    </p>
+    <p>
+        <a href="https://main.plataformasintia.com/app-sintia/main-app/registro.php" class="button">Empezar gratis</a>
     </p>
 ';
 
