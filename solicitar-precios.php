@@ -8,13 +8,15 @@ require 'library/phpmailer/Exception.php';
 require 'library/phpmailer/PHPMailer.php';
 require 'library/phpmailer/SMTP.php';
 
+mysqli_query($conexion, "INSERT INTO demo(demo_ip, demo_nombre, demo_cargo, demo_telefono, demo_email, demo_institucion)VALUES('" . $_SERVER["REMOTE_ADDR"] . "', '".$_POST['nombre']."', '".$_POST['cargo']."', '".$_POST['telefono']."', '".$_POST['email']."', '".$_POST['institucion']."')");
+
 //INICIO ENVÍO DE MENSAJE
-$asunto       = $_POST["nombre"] . ', Bienvenido a la Plataforma SINTIA';
-$tituloMsj    = "¡Bienvenido a la Plataforma SINTIA!";
+$asunto       = $_POST["nombre"] . ', Solicitud de precios';
+$tituloMsj    = "¡Solicitud de precios'!";
 $bgTitulo     = "#6017dc";
 $contenidoMsj = '
     <p>
-        Hola <b>' . strtoupper($_POST["nombre"]) . '</b>, Bienvenido a la Plataforma SINTIA. Adjunto encotrará los precios solicitados.<br>
+        Hola <b>' . strtoupper($_POST["nombre"]) . '</b>, de acuerdo a tu solicitud, adjunto encotrarás los precios solicitados.<br>
     </p>
 ';
 
