@@ -20,7 +20,8 @@ $contenidoMsj = '
 
         Recuerda que la plataforma SINTIA cuenta con un plan gratuito y está disponible para todos los colegios que desean utilizarla.<br>
     </p>
-    <p>
+
+    <p style="text-align:center;">
         <a href="https://docs.google.com/presentation/d/1zfs6mqed7aDGFhmAomEWWGGaoCLPNkv-_b0EskcCLqE/edit?usp=sharing" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; 
               color: #ffffff; text-decoration: none; border-radius: 5px; background-color: #41c4c4; 
               text-align: center;">SINTIA - Planes y precios</a>
