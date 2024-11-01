@@ -61,7 +61,7 @@
         margin: 0;
     }
 
-    .button {
+    /* .button {
         display: inline-block;
         padding: 10px 20px;
         margin-top: 20px;
@@ -70,7 +70,33 @@
         text-decoration: none;
         border-radius: 5px;
         font-size: 16px;
-    }
+    } */
+
+    /* Estilos para los botones en el contenido del correo */
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #41c4c4; /* Color principal */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button:hover {
+    background-color: #2da6a6; /* Color de fondo en hover */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); /* Sombra más intensa */
+}
+
+.button:active {
+    background-color: #1b7d7d; /* Color de fondo al hacer clic */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra reducida */
+}
+
 
     /* Responsive Design */
     @media screen and (max-width: 600px) {
