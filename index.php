@@ -1,5 +1,5 @@
 <?php
-header("Location:../");
+//header("Location:../");
 include("config/conexion.php");
 
 include("includes/head.php");
