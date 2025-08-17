@@ -1,4 +1,7 @@
-<?php 
+<?php
+header("Location:https://plataformasintia.com/", true, 301);
+exit();
+
 include("sensitive.php");
 $conexion = mysqli_connect($servidorConexion, $usuarioConexion, $claveConexion, $baseDatosServicios);
 
